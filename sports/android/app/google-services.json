@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "672216862978",
+    "project_id": "apnateam-b7ddb",
+    "storage_bucket": "apnateam-b7ddb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672216862978:android:259153bb87c6d67be1321b",
+        "android_client_info": {
+          "package_name": "com.fantacySports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672216862978-egatlrg47rrvt1trgppe343ved163k3k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fantacySports",
+            "certificate_hash": "fd3f9e01bc1d92b28017573b2553b3cad89570be"
+          }
+        },
+        {
+          "client_id": "672216862978-3f2lv5glko0v4k0rdkmeffva1jfdc0h6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4f3ryBfFDQQcj345-T4iivkHrOeUb5Qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672216862978-3f2lv5glko0v4k0rdkmeffva1jfdc0h6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "672216862978-ifal2nro2b4ql1hnd65ppn0i2br2j54l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.apnateam.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

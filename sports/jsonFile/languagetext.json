@@ -1,0 +1,7802 @@
+{
+    "allText": [
+        {
+            "textId": "Select your Language",
+            "languageTextList": [
+                {
+                    "fr": "Choisissez votre langue"
+                },
+                {
+                    "ar": "اختر لغتك"
+                },
+                {
+                    "ja": "あなたが使う言語を選んでください"
+                }
+            ]
+        },
+        {
+            "textId": "Fantacy Sports",
+            "languageTextList": [
+                {
+                    "fr": "Sports fantastiques"
+                },
+                {
+                    "ar": "الرياضات الخيالية"
+                },
+                {
+                    "ja": "ファンタジースポーツ"
+                }
+            ]
+        },
+        {
+            "textId": "Choose your Captain and Vice Captain",
+            "languageTextList": [
+                {
+                    "fr": "Choisissez votre capitaine et votre vice-capitaine"
+                },
+                {
+                    "ar": "اختر الكابتن ونائب الكابتن"
+                },
+                {
+                    "ja": "キャプテンと副キャプテンを選択してください"
+                }
+            ]
+        },
+        {
+            "textId": "C gets 2x points, VC gets 1.5x points",
+            "languageTextList": [
+                {
+                    "fr": "C obtient 2x points, VC obtient 1,5x points"
+                },
+                {
+                    "ar": "يحصل C على ضعفين ، ويحصل VC على 1.5x نقطة"
+                },
+                {
+                    "ja": "Cは2倍のポイントを獲得し、VCは1.5倍のポイントを獲得します"
+                }
+            ]
+        },
+        {
+            "textId": "Type",
+            "languageTextList": [
+                {
+                    "fr": "Type"
+                },
+                {
+                    "ar": "نوع"
+                },
+                {
+                    "ja": "タイプ"
+                }
+            ]
+        },
+        {
+            "textId": "Points",
+            "languageTextList": [
+                {
+                    "fr": "Points"
+                },
+                {
+                    "ar": "نقاط"
+                },
+                {
+                    "ja": "ポイント"
+                }
+            ]
+        },
+        {
+            "textId": "% C By",
+            "languageTextList": [
+                {
+                    "fr": "% C par"
+                },
+                {
+                    "ar": "٪ C بواسطة"
+                },
+                {
+                    "ja": "％C By"
+                }
+            ]
+        },
+        {
+            "textId": "% VC By",
+            "languageTextList": [
+                {
+                    "fr": "% VC par"
+                },
+                {
+                    "ar": "٪ VC بواسطة"
+                },
+                {
+                    "ja": "％VC By"
+                }
+            ]
+        },
+        {
+            "textId": "S Samson",
+            "languageTextList": [
+                {
+                    "fr": "S Samson"
+                },
+                {
+                    "ar": "إس شمشون"
+                },
+                {
+                    "ja": "Sサムソン"
+                }
+            ]
+        },
+        {
+            "textId": "J Butter",
+            "languageTextList": [
+                {
+                    "fr": "J Beurre"
+                },
+                {
+                    "ar": "زبدة جي"
+                },
+                {
+                    "ja": "Jバター"
+                }
+            ]
+        },
+        {
+            "textId": "A Rawat",
+            "languageTextList": [
+                {
+                    "fr": "Un Rawat"
+                },
+                {
+                    "ar": "راوات"
+                },
+                {
+                    "ja": "ラワット"
+                }
+            ]
+        },
+        {
+            "textId": "S Smith",
+            "languageTextList": [
+                {
+                    "fr": "S Smith"
+                },
+                {
+                    "ar": "اس سميث"
+                },
+                {
+                    "ja": "Sスミス"
+                }
+            ]
+        },
+        {
+            "textId": "A Rawat",
+            "languageTextList": [
+                {
+                    "fr": "Un Rawat"
+                },
+                {
+                    "ar": "راوات"
+                },
+                {
+                    "ja": "ラワット"
+                }
+            ]
+        },
+        {
+            "textId": "Team Preview",
+            "languageTextList": [
+                {
+                    "fr": "Aperçu de l'équipe"
+                },
+                {
+                    "ar": "معاينة الفريق"
+                },
+                {
+                    "ja": "チームプレビュー"
+                }
+            ]
+        },
+        {
+            "textId": "Save Team",
+            "languageTextList": [
+                {
+                    "fr": "Enregistrer l'équipe"
+                },
+                {
+                    "ar": "حفظ الفريق"
+                },
+                {
+                    "ja": "チームを保存"
+                }
+            ]
+        },
+        {
+            "textId": "Select 1-4 Wicket-Keepers",
+            "languageTextList": [
+                {
+                    "fr": "Sélectionnez 1 à 4 gardiens de guichet"
+                },
+                {
+                    "ar": "حدد 1-4 Wicket-Keepers"
+                },
+                {
+                    "ja": "1-4ウィケットキーパーを選択します"
+                }
+            ]
+        },
+        {
+            "textId": "SELECTE BY",
+            "languageTextList": [
+                {
+                    "fr": "SÉLECTIONNÉ PAR"
+                },
+                {
+                    "ar": "يختارهم"
+                },
+                {
+                    "ja": "選択者"
+                }
+            ]
+        },
+        {
+            "textId": "POINTS",
+            "languageTextList": [
+                {
+                    "fr": "POINTS"
+                },
+                {
+                    "ar": "نقاط"
+                },
+                {
+                    "ja": "ポイント"
+                }
+            ]
+        },
+        {
+            "textId": "CREDITS",
+            "languageTextList": [
+                {
+                    "fr": "CRÉDITS"
+                },
+                {
+                    "ar": "الاعتمادات"
+                },
+                {
+                    "ja": "クレジット"
+                }
+            ]
+        },
+        {
+            "textId": "Continue",
+            "languageTextList": [
+                {
+                    "fr": "Continuer"
+                },
+                {
+                    "ar": "استمر"
+                },
+                {
+                    "ja": "継続する"
+                }
+            ]
+        },
+        {
+            "textId": "A de Villiers",
+            "languageTextList": [
+                {
+                    "fr": "A de Villiers"
+                },
+                {
+                    "ar": "دي فيلييه"
+                },
+                {
+                    "ja": "デヴィリエ"
+                }
+            ]
+        },
+        {
+            "textId": "Sel by 67.15%",
+            "languageTextList": [
+                {
+                    "fr": "Sel de 67,15%"
+                },
+                {
+                    "ar": "ملح بنسبة 67.15٪"
+                },
+                {
+                    "ja": "67.15％の塩"
+                }
+            ]
+        },
+        {
+            "textId": "Played last match",
+            "languageTextList": [
+                {
+                    "fr": "A joué le dernier match"
+                },
+                {
+                    "ar": "لعبت آخر مباراة"
+                },
+                {
+                    "ja": "最後の試合をした"
+                }
+            ]
+        },
+        {
+            "textId": "Sel by 68.15%",
+            "languageTextList": [
+                {
+                    "fr": "Sel de 68,15%"
+                },
+                {
+                    "ar": "ملح بنسبة 68.15٪"
+                },
+                {
+                    "ja": "68.15％の塩"
+                }
+            ]
+        },
+        {
+            "textId": "Played last match",
+            "languageTextList": [
+                {
+                    "fr": "A joué le dernier match"
+                },
+                {
+                    "ar": "لعبت آخر مباراة"
+                },
+                {
+                    "ja": "最後の試合をした"
+                }
+            ]
+        },
+        {
+            "textId": "V kohli",
+            "languageTextList": [
+                {
+                    "fr": "V kohli"
+                },
+                {
+                    "ar": "V كوهلي"
+                },
+                {
+                    "ja": "Vコーリ"
+                }
+            ]
+        },
+        {
+            "textId": "A Finch",
+            "languageTextList": [
+                {
+                    "fr": "Un pinson"
+                },
+                {
+                    "ar": "إلى فينش"
+                },
+                {
+                    "ja": "フィンチに"
+                }
+            ]
+        },
+        {
+            "textId": "B Stokes",
+            "languageTextList": [
+                {
+                    "fr": "B Stokes"
+                },
+                {
+                    "ar": "ب ستوكس"
+                },
+                {
+                    "ja": "Bストークス"
+                }
+            ]
+        },
+        {
+            "textId": "C Morris",
+            "languageTextList": [
+                {
+                    "fr": "C Morris"
+                },
+                {
+                    "ar": "سي موريس"
+                },
+                {
+                    "ja": "Cモリス"
+                }
+            ]
+        },
+        {
+            "textId": "J Archer",
+            "languageTextList": [
+                {
+                    "fr": "J Archer"
+                },
+                {
+                    "ar": "J آرتشر"
+                },
+                {
+                    "ja": "Jアーチャー"
+                }
+            ]
+        },
+        {
+            "textId": "Y Chahal",
+            "languageTextList": [
+                {
+                    "fr": "Y Chahal"
+                },
+                {
+                    "ar": "يا شهال"
+                },
+                {
+                    "ja": "Yチャハル"
+                }
+            ]
+        },
+        {
+            "textId": "D Steyn",
+            "languageTextList": [
+                {
+                    "fr": "D Steyn"
+                },
+                {
+                    "ar": "د ستاين"
+                },
+                {
+                    "ja": "Dスタイン"
+                }
+            ]
+        },
+        {
+            "textId": "WK(0)",
+            "languageTextList": [
+                {
+                    "fr": "SEM (0)"
+                },
+                {
+                    "ar": "دبليو كيه (0)"
+                },
+                {
+                    "ja": "WK（0）"
+                }
+            ]
+        },
+        {
+            "textId": "BAT(0)",
+            "languageTextList": [
+                {
+                    "fr": "BAT (0)"
+                },
+                {
+                    "ar": "بات (0)"
+                },
+                {
+                    "ja": "BAT（0）"
+                }
+            ]
+        },
+        {
+            "textId": "AR(0)",
+            "languageTextList": [
+                {
+                    "fr": "AR (0)"
+                },
+                {
+                    "ar": "أر (0)"
+                },
+                {
+                    "ja": "AR（0）"
+                }
+            ]
+        },
+        {
+            "textId": "BOWL(0)",
+            "languageTextList": [
+                {
+                    "fr": "BOL (0)"
+                },
+                {
+                    "ar": "وعاء (0)"
+                },
+                {
+                    "ja": "ボウル（0）"
+                }
+            ]
+        },
+        {
+            "textId": "5h 47m left",
+            "languageTextList": [
+                {
+                    "fr": "Il reste 5h 47m"
+                },
+                {
+                    "ar": "5 س 47 د متبقي"
+                },
+                {
+                    "ja": "残り5時間47分"
+                }
+            ]
+        },
+        {
+            "textId": "Max 7 palyers from a team",
+            "languageTextList": [
+                {
+                    "fr": "Max 7 joueurs par équipe"
+                },
+                {
+                    "ar": "بحد أقصى 7 رافعات من فريق"
+                },
+                {
+                    "ja": "チームから最大7人の患者"
+                }
+            ]
+        },
+        {
+            "textId": "Palyers",
+            "languageTextList": [
+                {
+                    "fr": "Joueuses"
+                },
+                {
+                    "ar": "لاعبين"
+                },
+                {
+                    "ja": "プレイヤー"
+                }
+            ]
+        },
+        {
+            "textId": "Credits Left",
+            "languageTextList": [
+                {
+                    "fr": "Crédits restants"
+                },
+                {
+                    "ar": "الاعتمادات اليسار"
+                },
+                {
+                    "ja": "残りのクレジット"
+                }
+            ]
+        },
+        {
+            "textId": "Wicket Keepers",
+            "languageTextList": [
+                {
+                    "fr": "Gardiens de guichet"
+                },
+                {
+                    "ar": "حراس الويكيت"
+                },
+                {
+                    "ja": "ウィケットキーパー"
+                }
+            ]
+        },
+        {
+            "textId": "J.Buttler",
+            "languageTextList": [
+                {
+                    "fr": "J.Buttler"
+                },
+                {
+                    "ar": "جي باتلر"
+                },
+                {
+                    "ja": "J.バトラー"
+                }
+            ]
+        },
+        {
+            "textId": "9.5 Cr",
+            "languageTextList": [
+                {
+                    "fr": "9,5 Cr"
+                },
+                {
+                    "ar": "9.5 س"
+                },
+                {
+                    "ja": "9.5 Cr"
+                }
+            ]
+        },
+        {
+            "textId": "S.Samson",
+            "languageTextList": [
+                {
+                    "fr": "S.Samson"
+                },
+                {
+                    "ar": "إس سامسون"
+                },
+                {
+                    "ja": "S.サムソン"
+                }
+            ]
+        },
+        {
+            "textId": "8 Cr",
+            "languageTextList": [
+                {
+                    "fr": "8 Cr"
+                },
+                {
+                    "ar": "8 س"
+                },
+                {
+                    "ja": "8 Cr"
+                }
+            ]
+        },
+        {
+            "textId": "BatsMen",
+            "languageTextList": [
+                {
+                    "fr": "Chauves-souris"
+                },
+                {
+                    "ar": "الخفافيش"
+                },
+                {
+                    "ja": "BatsMen"
+                }
+            ]
+        },
+        {
+            "textId": "A.Joshi",
+            "languageTextList": [
+                {
+                    "fr": "Ah. Les filles"
+                },
+                {
+                    "ar": "آه. الفتيات"
+                },
+                {
+                    "ja": "A.ジョシ"
+                }
+            ]
+        },
+        {
+            "textId": "Y.Jaiswal",
+            "languageTextList": [
+                {
+                    "fr": "Y.Jaiswal"
+                },
+                {
+                    "ar": "واي جايسوال"
+                },
+                {
+                    "ja": "Y.ジェイスワル"
+                }
+            ]
+        },
+        {
+            "textId": "All-Rounders",
+            "languageTextList": [
+                {
+                    "fr": "Polyvalent"
+                },
+                {
+                    "ar": "الجميع"
+                },
+                {
+                    "ja": "オールラウンド"
+                }
+            ]
+        },
+        {
+            "textId": "R.Rewatia",
+            "languageTextList": [
+                {
+                    "fr": "R.Rewatia"
+                },
+                {
+                    "ar": "رواتيا"
+                },
+                {
+                    "ja": "R.レウェーシャ"
+                }
+            ]
+        },
+        {
+            "textId": "Bowlers",
+            "languageTextList": [
+                {
+                    "fr": "Quilleurs"
+                },
+                {
+                    "ar": "الرماة"
+                },
+                {
+                    "ja": "ボウラー"
+                }
+            ]
+        },
+        {
+            "textId": "D.Steyn",
+            "languageTextList": [
+                {
+                    "fr": "D.Steyn"
+                },
+                {
+                    "ar": "دي ستاين"
+                },
+                {
+                    "ja": "D.スタイン"
+                }
+            ]
+        },
+        {
+            "textId": "8.5 Cr",
+            "languageTextList": [
+                {
+                    "fr": "8,5 Cr"
+                },
+                {
+                    "ar": "8.5 كر"
+                },
+                {
+                    "ja": "8.5 Cr"
+                }
+            ]
+        },
+        {
+            "textId": "Y.Chahal",
+            "languageTextList": [
+                {
+                    "fr": "Y.Chahal"
+                },
+                {
+                    "ar": "واي شال"
+                },
+                {
+                    "ja": "Y.チャハル"
+                }
+            ]
+        },
+        {
+            "textId": "M.siraj",
+            "languageTextList": [
+                {
+                    "fr": "M.siraj"
+                },
+                {
+                    "ar": "م. سراج"
+                },
+                {
+                    "ja": "M.シラジ"
+                }
+            ]
+        },
+        {
+            "textId": "Entry",
+            "languageTextList": [
+                {
+                    "fr": "Entrée"
+                },
+                {
+                    "ar": "دخول"
+                },
+                {
+                    "ja": "エントリ"
+                }
+            ]
+        },
+        {
+            "textId": "Number of Teams",
+            "languageTextList": [
+                {
+                    "fr": "Nombre d'équipes"
+                },
+                {
+                    "ar": "عدد الفرق"
+                },
+                {
+                    "ja": "チーム数"
+                }
+            ]
+        },
+        {
+            "textId": "Prize Pool",
+            "languageTextList": [
+                {
+                    "fr": "Récompense"
+                },
+                {
+                    "ar": "مجموع جوائز"
+                },
+                {
+                    "ja": "賞金プール"
+                }
+            ]
+        },
+        {
+            "textId": "Contest Type",
+            "languageTextList": [
+                {
+                    "fr": "Type de concours"
+                },
+                {
+                    "ar": "نوع المسابقة"
+                },
+                {
+                    "ja": "コンテストタイプ"
+                }
+            ]
+        },
+        {
+            "textId": "Apply",
+            "languageTextList": [
+                {
+                    "fr": "Appliquer"
+                },
+                {
+                    "ar": "تطبيق"
+                },
+                {
+                    "ja": "適用する"
+                }
+            ]
+        },
+        {
+            "textId": "Filter",
+            "languageTextList": [
+                {
+                    "fr": "Filtre"
+                },
+                {
+                    "ar": "منقي"
+                },
+                {
+                    "ja": "フィルタ"
+                }
+            ]
+        },
+        {
+            "textId": "CLEAR",
+            "languageTextList": [
+                {
+                    "fr": "CLAIR"
+                },
+                {
+                    "ar": "واضح"
+                },
+                {
+                    "ja": "晴れ"
+                }
+            ]
+        },
+        {
+            "textId": "Aakash domadiya",
+            "languageTextList": [
+                {
+                    "fr": "Aakash domadiya"
+                },
+                {
+                    "ar": "عكاش دومادية"
+                },
+                {
+                    "ja": "Aakash domadiya"
+                }
+            ]
+        },
+        {
+            "textId": "AKASH8287MN",
+            "languageTextList": [
+                {
+                    "fr": "AKASH8287MN"
+                },
+                {
+                    "ar": "AKASH8287MN"
+                },
+                {
+                    "ja": "AKASH8287MN"
+                }
+            ]
+        },
+        {
+            "textId": "Level 19",
+            "languageTextList": [
+                {
+                    "fr": "Niveau 19"
+                },
+                {
+                    "ar": "المستوى 19"
+                },
+                {
+                    "ja": "レベル19"
+                }
+            ]
+        },
+        {
+            "textId": "FOLLOW",
+            "languageTextList": [
+                {
+                    "fr": "SUIVRE"
+                },
+                {
+                    "ar": "إتبع"
+                },
+                {
+                    "ja": "フォローする"
+                }
+            ]
+        },
+        {
+            "textId": "My Contacts",
+            "languageTextList": [
+                {
+                    "fr": "Mes contacts"
+                },
+                {
+                    "ar": "جهات الاتصال الخاصة بي"
+                },
+                {
+                    "ja": "私の連絡先"
+                }
+            ]
+        },
+        {
+            "textId": "Invite Friends",
+            "languageTextList": [
+                {
+                    "fr": "Inviter des amis"
+                },
+                {
+                    "ar": "ادعو أصدقاء"
+                },
+                {
+                    "ja": "友達を招待"
+                }
+            ]
+        },
+        {
+            "textId": "Earn up to ₹100 Cash Bonus per friend",
+            "languageTextList": [
+                {
+                    "fr": "Gagnez jusqu'à 100 ₹ Cash Bonus par ami"
+                },
+                {
+                    "ar": "اربح حتى 100 دولار أمريكي مكافأة نقدية لكل صديق"
+                },
+                {
+                    "ja": "友達1人あたり最大100ポンドの現金ボーナスを獲得できます"
+                }
+            ]
+        },
+        {
+            "textId": "Give your friends ₹100 Cash Bonus when they join Fantacy.\nGet up to ₹100 Cash Bonus when they play.",
+            "languageTextList": [
+                {
+                    "fr": "Offrez à vos amis un bonus en espèces de 100 ₹ lorsqu'ils rejoignent Fantacy. \nObtenez jusqu'à 100 ₹ de bonus en espèces lorsqu'ils jouent."
+                },
+                {
+                    "ar": "امنح أصدقائك مكافأة نقدية بقيمة 100 روبية هندية عند انضمامهم إلى Fantacy. \n احصل على ما يصل إلى 100 دولار مكافأة نقدية عند اللعب."
+                },
+                {
+                    "ja": "友達がファンタシーに参加すると、100ポンドの現金ボーナスを獲得できます。\nプレイすると、最大100ポンドの現金ボーナスを獲得できます。"
+                }
+            ]
+        },
+        {
+            "textId": "How it Works",
+            "languageTextList": [
+                {
+                    "fr": "Comment ça fonctionne"
+                },
+                {
+                    "ar": "كيف تعمل"
+                },
+                {
+                    "ja": "使い方"
+                }
+            ]
+        },
+        {
+            "textId": "PARTHD37OQR",
+            "languageTextList": [
+                {
+                    "fr": "PARTHD37OQR"
+                },
+                {
+                    "ar": "بارثد 37 ريال"
+                },
+                {
+                    "ja": "バルテス"
+                }
+            ]
+        },
+        {
+            "textId": "Invite Phone Contacts",
+            "languageTextList": [
+                {
+                    "fr": "Inviter des contacts téléphoniques"
+                },
+                {
+                    "ar": "دعوة جهات اتصال الهاتف"
+                },
+                {
+                    "ja": "電話の連絡先を招待する"
+                }
+            ]
+        },
+        {
+            "textId": "Share on WhatsApp",
+            "languageTextList": [
+                {
+                    "fr": "Partager sur WhatsApp"
+                },
+                {
+                    "ar": "انشر على WhatsApp"
+                },
+                {
+                    "ja": "WhatsAppで共有する"
+                }
+            ]
+        },
+        {
+            "textId": "More Options",
+            "languageTextList": [
+                {
+                    "fr": "Plus d'options"
+                },
+                {
+                    "ar": "المزيد من الخيارات"
+                },
+                {
+                    "ja": "より多くのオプション"
+                }
+            ]
+        },
+        {
+            "textId": "You haven't invited any friends yet!",
+            "languageTextList": [
+                {
+                    "fr": "Vous n'avez encore invité aucun ami!"
+                },
+                {
+                    "ar": "لم تقم بدعوة أي أصدقاء بعد!"
+                },
+                {
+                    "ja": "まだ友達を招待していません！"
+                }
+            ]
+        },
+        {
+            "textId": "How To Play",
+            "languageTextList": [
+                {
+                    "fr": "Comment jouer"
+                },
+                {
+                    "ar": "كيف ألعب"
+                },
+                {
+                    "ja": "遊び方"
+                }
+            ]
+        },
+        {
+            "textId": "What is Fantacy",
+            "languageTextList": [
+                {
+                    "fr": "Qu'est-ce que la fantaisie"
+                },
+                {
+                    "ar": "ما هو الخيال"
+                },
+                {
+                    "ja": "ファンタジーとは"
+                }
+            ]
+        },
+        {
+            "textId": "Cricket",
+            "languageTextList": [
+                {
+                    "fr": "Criquet"
+                },
+                {
+                    "ar": "كريكيت"
+                },
+                {
+                    "ja": "クリケット"
+                }
+            ]
+        },
+        {
+            "textId": "Football",
+            "languageTextList": [
+                {
+                    "fr": "Football"
+                },
+                {
+                    "ar": "كرة القدم"
+                },
+                {
+                    "ja": "フットボール"
+                }
+            ]
+        },
+        {
+            "textId": "Kabaddi",
+            "languageTextList": [
+                {
+                    "fr": "Kabaddi"
+                },
+                {
+                    "ar": "كبدي"
+                },
+                {
+                    "ja": "カバディ"
+                }
+            ]
+        },
+        {
+            "textId": "Baseball",
+            "languageTextList": [
+                {
+                    "fr": "Base-ball"
+                },
+                {
+                    "ar": "البيسبول"
+                },
+                {
+                    "ja": "野球"
+                }
+            ]
+        },
+        {
+            "textId": "Basketball",
+            "languageTextList": [
+                {
+                    "fr": "Basketball"
+                },
+                {
+                    "ar": "كرة سلة"
+                },
+                {
+                    "ja": "バスケットボール"
+                }
+            ]
+        },
+        {
+            "textId": "Hockey",
+            "languageTextList": [
+                {
+                    "fr": "Le hockey"
+                },
+                {
+                    "ar": "الهوكي"
+                },
+                {
+                    "ja": "ホッケー"
+                }
+            ]
+        },
+        {
+            "textId": "Volleyball",
+            "languageTextList": [
+                {
+                    "fr": "Volley-ball"
+                },
+                {
+                    "ar": "الكرة الطائرة"
+                },
+                {
+                    "ja": "バレーボール"
+                }
+            ]
+        },
+        {
+            "textId": "Handball",
+            "languageTextList": [
+                {
+                    "fr": "Handball"
+                },
+                {
+                    "ar": "كرة اليد"
+                },
+                {
+                    "ja": "ハンドボール"
+                }
+            ]
+        },
+        {
+            "textId": "NFL",
+            "languageTextList": [
+                {
+                    "fr": "NFL"
+                },
+                {
+                    "ar": "اتحاد كرة القدم الأميركي"
+                },
+                {
+                    "ja": "NFL"
+                }
+            ]
+        },
+        {
+            "textId": "Invite Code",
+            "languageTextList": [
+                {
+                    "fr": "Code d'invitation"
+                },
+                {
+                    "ar": "موجه كود"
+                },
+                {
+                    "ja": "招待コード"
+                }
+            ]
+        },
+        {
+            "textId": "If you have a contest invite code, enter it and join",
+            "languageTextList": [
+                {
+                    "fr": "Si vous avez un code d'invitation au concours, entrez-le et rejoignez"
+                },
+                {
+                    "ar": "إذا كان لديك رمز دعوة للمسابقة ، أدخله وانضم"
+                },
+                {
+                    "ja": "コンテストの招待コードがある場合は、それを入力して参加してください"
+                }
+            ]
+        },
+        {
+            "textId": "Join This Contest",
+            "languageTextList": [
+                {
+                    "fr": "Rejoignez ce concours"
+                },
+                {
+                    "ar": "انضم إلى هذه المسابقة"
+                },
+                {
+                    "ja": "このコンテストに参加する"
+                }
+            ]
+        },
+        {
+            "textId": "More",
+            "languageTextList": [
+                {
+                    "fr": "Plus"
+                },
+                {
+                    "ar": "أكثر"
+                },
+                {
+                    "ja": "もっと"
+                }
+            ]
+        },
+        {
+            "textId": "Community Guidelines",
+            "languageTextList": [
+                {
+                    "fr": "Règles de la communauté"
+                },
+                {
+                    "ar": "إرشادات المجتمع"
+                },
+                {
+                    "ja": "コミュニティガイドライン"
+                }
+            ]
+        },
+        {
+            "textId": "Enter Contest Code",
+            "languageTextList": [
+                {
+                    "fr": "Entrez le code du concours"
+                },
+                {
+                    "ar": "أدخل رمز المسابقة"
+                },
+                {
+                    "ja": "コンテストコードを入力してください"
+                }
+            ]
+        },
+        {
+            "textId": "WhatsApp Updates",
+            "languageTextList": [
+                {
+                    "fr": "Mises à jour WhatsApp"
+                },
+                {
+                    "ar": "تحديثات WhatsApp"
+                },
+                {
+                    "ja": "WhatsAppの更新"
+                }
+            ]
+        },
+        {
+            "textId": "How To Play",
+            "languageTextList": [
+                {
+                    "fr": "Comment jouer"
+                },
+                {
+                    "ar": "كيف ألعب"
+                },
+                {
+                    "ja": "遊び方"
+                }
+            ]
+        },
+        {
+            "textId": "Jobs",
+            "languageTextList": [
+                {
+                    "fr": "Travaux"
+                },
+                {
+                    "ar": "وظائف"
+                },
+                {
+                    "ja": "ジョブズ"
+                }
+            ]
+        },
+        {
+            "textId": "About Us",
+            "languageTextList": [
+                {
+                    "fr": "À propos de nous"
+                },
+                {
+                    "ar": "معلومات عنا"
+                },
+                {
+                    "ja": "私たちに関しては"
+                }
+            ]
+        },
+        {
+            "textId": "Legaliyty",
+            "languageTextList": [
+                {
+                    "fr": "Légalité"
+                },
+                {
+                    "ar": "القانونية"
+                },
+                {
+                    "ja": "正当性"
+                }
+            ]
+        },
+        {
+            "textId": "Terms and\tConditions",
+            "languageTextList": [
+                {
+                    "fr": "Termes et \tConditions"
+                },
+                {
+                    "ar": "الشروط و \t الشروط"
+                },
+                {
+                    "ja": "利用規約と\t条件"
+                }
+            ]
+        },
+        {
+            "textId": "Know What's Up On Fantacy",
+            "languageTextList": [
+                {
+                    "fr": "Sachez ce qui se passe sur Fantacy"
+                },
+                {
+                    "ar": "تعرف على ما يجري في الخيال"
+                },
+                {
+                    "ja": "ファンタシーの最新情報を知る"
+                }
+            ]
+        },
+        {
+            "textId": "Track the status of your withdrawals",
+            "languageTextList": [
+                {
+                    "fr": "Suivez l'état de vos retraits"
+                },
+                {
+                    "ar": "تتبع حالة عمليات السحب الخاصة بك"
+                },
+                {
+                    "ja": "引き出しのステータスを追跡する"
+                }
+            ]
+        },
+        {
+            "textId": "Enjoy access to exciting features & rewards",
+            "languageTextList": [
+                {
+                    "fr": "Profitez de l'accès à des fonctionnalités et des récompenses intéressantes"
+                },
+                {
+                    "ar": "استمتع بالوصول إلى الميزات والمكافآت المثيرة"
+                },
+                {
+                    "ja": "エキサイティングな機能と特典へのアクセスをお楽しみください"
+                }
+            ]
+        },
+        {
+            "textId": "Stay Updated on WhatsApp",
+            "languageTextList": [
+                {
+                    "fr": "Restez à jour sur WhatsApp"
+                },
+                {
+                    "ar": "ابق على اطلاع على WhatsApp"
+                },
+                {
+                    "ja": "WhatsAppの最新情報を入手してください"
+                }
+            ]
+        },
+        {
+            "textId": "Unsubscribe to these notifications any time from\tWhatsApp as\nwell",
+            "languageTextList": [
+                {
+                    "fr": "Désabonnez-vous à ces notifications à tout moment de \tWhatsApp en tant que \nwell"
+                },
+                {
+                    "ar": "قم بإلغاء الاشتراك في هذه الإخطارات في أي وقت من \t WhatsApp كـ \n كذلك"
+                },
+                {
+                    "ja": "\tWhatsAppからいつでもこれらの通知の購読を解除してください\n"
+                }
+            ]
+        },
+        {
+            "textId": "Verify Your Account",
+            "languageTextList": [
+                {
+                    "fr": "Vérifiez votre compte"
+                },
+                {
+                    "ar": "تحقق من حسابك"
+                },
+                {
+                    "ja": "アカウントを確認する"
+                }
+            ]
+        },
+        {
+            "textId": "Mobile & Email",
+            "languageTextList": [
+                {
+                    "fr": "Mobile et e-mail"
+                },
+                {
+                    "ar": "الجوال والبريد الإلكتروني"
+                },
+                {
+                    "ja": "モバイルとメール"
+                }
+            ]
+        },
+        {
+            "textId": "PAN",
+            "languageTextList": [
+                {
+                    "fr": "LA POÊLE"
+                },
+                {
+                    "ar": "مقلاة"
+                },
+                {
+                    "ja": "PAN"
+                }
+            ]
+        },
+        {
+            "textId": "Bank",
+            "languageTextList": [
+                {
+                    "fr": "Banque"
+                },
+                {
+                    "ar": "بنك"
+                },
+                {
+                    "ja": "バンク"
+                }
+            ]
+        },
+        {
+            "textId": "Verify Bank Account",
+            "languageTextList": [
+                {
+                    "fr": "Vérifier le compte bancaire"
+                },
+                {
+                    "ar": "تحقق من الحساب المصرفي"
+                },
+                {
+                    "ja": "銀行口座を確認する"
+                }
+            ]
+        },
+        {
+            "textId": "(Verify your account to withdraw winnings)",
+            "languageTextList": [
+                {
+                    "fr": "(Vérifiez votre compte pour retirer vos gains)"
+                },
+                {
+                    "ar": "(تحقق من حسابك لسحب الأرباح)"
+                },
+                {
+                    "ja": "（賞金を引き出すにはアカウントを確認してください）"
+                }
+            ]
+        },
+        {
+            "textId": "To transfer winnings to your bankDetails\naccount, please complete the steps\nmentioned below:",
+            "languageTextList": [
+                {
+                    "fr": "Pour transférer vos gains sur votre compte bancaireDétails \n, veuillez suivre les étapes \nindiquées ci-dessous:"
+                },
+                {
+                    "ar": "لتحويل المكاسب إلى حسابك المصرفي \n الحساب ، يرجى إكمال الخطوات \n المذكورة أدناه:"
+                },
+                {
+                    "ja": "賞金をbankDetailsアカウントに転送するには、\n以下の手順を実行してください。\n"
+                }
+            ]
+        },
+        {
+            "textId": "Verify your mobile number",
+            "languageTextList": [
+                {
+                    "fr": "Vérifiez votre numéro de mobile"
+                },
+                {
+                    "ar": "تحقق من رقم هاتفك المحمول"
+                },
+                {
+                    "ja": "携帯電話番号を確認する"
+                }
+            ]
+        },
+        {
+            "textId": "Verify your email id",
+            "languageTextList": [
+                {
+                    "fr": "Vérifiez votre adresse e-mail"
+                },
+                {
+                    "ar": "تحقق من معرف البريد الإلكتروني الخاص بك"
+                },
+                {
+                    "ja": "メールIDを確認してください"
+                }
+            ]
+        },
+        {
+            "textId": "Verify your PAN card",
+            "languageTextList": [
+                {
+                    "fr": "Vérifiez votre carte PAN"
+                },
+                {
+                    "ar": "تحقق من بطاقة PAN الخاصة بك"
+                },
+                {
+                    "ja": "PANカードを確認します"
+                }
+            ]
+        },
+        {
+            "textId": "Your mobile number is verified",
+            "languageTextList": [
+                {
+                    "fr": "Votre numéro de mobile est vérifié"
+                },
+                {
+                    "ar": "تم التحقق من رقم هاتفك المحمول"
+                },
+                {
+                    "ja": "あなたの携帯電話番号が確認されます"
+                }
+            ]
+        },
+        {
+            "textId": "My Balance",
+            "languageTextList": [
+                {
+                    "fr": "Mon solde"
+                },
+                {
+                    "ar": "رصيدي"
+                },
+                {
+                    "ja": "私のバランス"
+                }
+            ]
+        },
+        {
+            "textId": "Total Balance",
+            "languageTextList": [
+                {
+                    "fr": "Solde total"
+                },
+                {
+                    "ar": "إجمالي الرصيد"
+                },
+                {
+                    "ja": "総合収支"
+                }
+            ]
+        },
+        {
+            "textId": "Add Cash",
+            "languageTextList": [
+                {
+                    "fr": "Ajouter de l'argent"
+                },
+                {
+                    "ar": "أضف نقودا"
+                },
+                {
+                    "ja": "現金を追加する"
+                }
+            ]
+        },
+        {
+            "textId": "Amount Added",
+            "languageTextList": [
+                {
+                    "fr": "Montant ajouté"
+                },
+                {
+                    "ar": "المبلغ المضاف"
+                },
+                {
+                    "ja": "追加された金額"
+                }
+            ]
+        },
+        {
+            "textId": "Winnings",
+            "languageTextList": [
+                {
+                    "fr": "Gains"
+                },
+                {
+                    "ar": "المكاسب"
+                },
+                {
+                    "ja": "賞金"
+                }
+            ]
+        },
+        {
+            "textId": "Cash Bonus",
+            "languageTextList": [
+                {
+                    "fr": "Bonus en espèces"
+                },
+                {
+                    "ar": "مكافأة نقدية"
+                },
+                {
+                    "ja": "現金ボーナス"
+                }
+            ]
+        },
+        {
+            "textId": "My Recent Transactions",
+            "languageTextList": [
+                {
+                    "fr": "Mes transactions récentes"
+                },
+                {
+                    "ar": "معاملاتي الأخيرة"
+                },
+                {
+                    "ja": "私の最近の取引"
+                }
+            ]
+        },
+        {
+            "textId": "Manage Payments",
+            "languageTextList": [
+                {
+                    "fr": "Gérer les paiements"
+                },
+                {
+                    "ar": "إدارة المدفوعات"
+                },
+                {
+                    "ja": "支払いの管理"
+                }
+            ]
+        },
+        {
+            "textId": "Refer and Earn",
+            "languageTextList": [
+                {
+                    "fr": "Référez et gagnez"
+                },
+                {
+                    "ar": "الإحالة وكسب"
+                },
+                {
+                    "ja": "参照して稼ぐ"
+                }
+            ]
+        },
+        {
+            "textId": "Verify Your PAN",
+            "languageTextList": [
+                {
+                    "fr": "Vérifiez votre PAN"
+                },
+                {
+                    "ar": "تحقق من رقم PAN الخاص بك"
+                },
+                {
+                    "ja": "PANを確認する"
+                }
+            ]
+        },
+        {
+            "textId": "Upload PAN Card Image",
+            "languageTextList": [
+                {
+                    "fr": "Télécharger l'image de la carte PAN"
+                },
+                {
+                    "ar": "تحميل صورة بطاقة PAN"
+                },
+                {
+                    "ja": "PANカード画像をアップロードする"
+                }
+            ]
+        },
+        {
+            "textId": "Name*",
+            "languageTextList": [
+                {
+                    "fr": "Nom*"
+                },
+                {
+                    "ar": "اسم*"
+                },
+                {
+                    "ja": "名前*"
+                }
+            ]
+        },
+        {
+            "textId": "As on PAN card",
+            "languageTextList": [
+                {
+                    "fr": "Comme sur la carte PAN"
+                },
+                {
+                    "ar": "كما هو الحال في بطاقة PAN"
+                },
+                {
+                    "ja": "PANカードと同様"
+                }
+            ]
+        },
+        {
+            "textId": "PAN number*",
+            "languageTextList": [
+                {
+                    "fr": "Numéro PAN *"
+                },
+                {
+                    "ar": "رقم PAN *"
+                },
+                {
+                    "ja": "PAN番号*"
+                }
+            ]
+        },
+        {
+            "textId": "10 Digit PAN no.",
+            "languageTextList": [
+                {
+                    "fr": "N ° PAN à 10 chiffres"
+                },
+                {
+                    "ar": "10 Digit PAN no."
+                },
+                {
+                    "ja": "10桁PAN番号"
+                }
+            ]
+        },
+        {
+            "textId": "Date ob birth*",
+            "languageTextList": [
+                {
+                    "fr": "Date de naissance*"
+                },
+                {
+                    "ar": "تاريخ الولادة*"
+                },
+                {
+                    "ja": "生年月日*"
+                }
+            ]
+        },
+        {
+            "textId": "Enter state",
+            "languageTextList": [
+                {
+                    "fr": "Entrer l'état"
+                },
+                {
+                    "ar": "إدخال الدولة"
+                },
+                {
+                    "ja": "状態に入る"
+                }
+            ]
+        },
+        {
+            "textId": "All fields are mandatory",
+            "languageTextList": [
+                {
+                    "fr": "Tous les champs sont obligatoires"
+                },
+                {
+                    "ar": "جميع الحقول إلزامية"
+                },
+                {
+                    "ja": "すべてのフィールドは必須です"
+                }
+            ]
+        },
+        {
+            "textId": "Why should I submit my PAN card?",
+            "languageTextList": [
+                {
+                    "fr": "Pourquoi devrais-je soumettre ma carte PAN?"
+                },
+                {
+                    "ar": "لماذا يجب علي تقديم بطاقة PAN الخاصة بي؟"
+                },
+                {
+                    "ja": "PANカードを提出する必要があるのはなぜですか？"
+                }
+            ]
+        },
+        {
+            "textId": "Submit For Verification",
+            "languageTextList": [
+                {
+                    "fr": "Soumettre pour vérification"
+                },
+                {
+                    "ar": "إرسال للتحقق"
+                },
+                {
+                    "ja": "確認のために送信"
+                }
+            ]
+        },
+        {
+            "textId": "Transaction Statement",
+            "languageTextList": [
+                {
+                    "fr": "Déclaration de transaction"
+                },
+                {
+                    "ar": "بيان الصفقة"
+                },
+                {
+                    "ja": "取引明細書"
+                }
+            ]
+        },
+        {
+            "textId": "Choose time period for emailling transaction\nstatement:",
+            "languageTextList": [
+                {
+                    "fr": "Choisissez la période pour envoyer la transaction \ndéclaration:"
+                },
+                {
+                    "ar": "اختر الفترة الزمنية لمعاملة الشحن \n البيان:"
+                },
+                {
+                    "ja": "メール送信トランザクションの期間を選択します\nステートメント："
+                }
+            ]
+        },
+        {
+            "textId": "Last 1 month",
+            "languageTextList": [
+                {
+                    "fr": "1 mois dernier"
+                },
+                {
+                    "ar": "الشهر الماضي"
+                },
+                {
+                    "ja": "過去1か月"
+                }
+            ]
+        },
+        {
+            "textId": "Last 3 month",
+            "languageTextList": [
+                {
+                    "fr": "3 derniers mois"
+                },
+                {
+                    "ar": "آخر 3 أشهر"
+                },
+                {
+                    "ja": "過去3か月"
+                }
+            ]
+        },
+        {
+            "textId": "Last 6 month",
+            "languageTextList": [
+                {
+                    "fr": "6 derniers mois"
+                },
+                {
+                    "ar": "آخر 6 أشهر"
+                },
+                {
+                    "ja": "過去6か月"
+                }
+            ]
+        },
+        {
+            "textId": "Last 1 year",
+            "languageTextList": [
+                {
+                    "fr": "1 an dernier"
+                },
+                {
+                    "ar": "العام الماضي"
+                },
+                {
+                    "ja": "過去1年間"
+                }
+            ]
+        },
+        {
+            "textId": "Next",
+            "languageTextList": [
+                {
+                    "fr": "Suivant"
+                },
+                {
+                    "ar": "التالى"
+                },
+                {
+                    "ja": "次"
+                }
+            ]
+        },
+        {
+            "textId": "Batting",
+            "languageTextList": [
+                {
+                    "fr": "Au bâton"
+                },
+                {
+                    "ar": "الضرب"
+                },
+                {
+                    "ja": "バッティング"
+                }
+            ]
+        },
+        {
+            "textId": "Single (1B)",
+            "languageTextList": [
+                {
+                    "fr": "Unique (1B)"
+                },
+                {
+                    "ar": "مفرد (1 ب)"
+                },
+                {
+                    "ja": "シングル（1B）"
+                }
+            ]
+        },
+        {
+            "textId": "Batter reaches first base",
+            "languageTextList": [
+                {
+                    "fr": "Le frappeur atteint la première base"
+                },
+                {
+                    "ar": "يصل الخليط إلى القاعدة الأولى"
+                },
+                {
+                    "ja": "ねり粉が一塁に達する"
+                }
+            ]
+        },
+        {
+            "textId": "Double (2B)",
+            "languageTextList": [
+                {
+                    "fr": "Double (2B)"
+                },
+                {
+                    "ar": "مزدوج (2 ب)"
+                },
+                {
+                    "ja": "ダブル（2B）"
+                }
+            ]
+        },
+        {
+            "textId": "Batter reaches second base",
+            "languageTextList": [
+                {
+                    "fr": "Le frappeur atteint la deuxième base"
+                },
+                {
+                    "ar": "يصل الخليط إلى القاعدة الثانية"
+                },
+                {
+                    "ja": "ねり粉が二塁に達する"
+                }
+            ]
+        },
+        {
+            "textId": "Triple (3B)",
+            "languageTextList": [
+                {
+                    "fr": "Triple (3B)"
+                },
+                {
+                    "ar": "ثلاثية (3 ب)"
+                },
+                {
+                    "ja": "トリプル（3B）"
+                }
+            ]
+        },
+        {
+            "textId": "Batter reaches second base",
+            "languageTextList": [
+                {
+                    "fr": "Le frappeur atteint la deuxième base"
+                },
+                {
+                    "ar": "يصل الخليط إلى القاعدة الثانية"
+                },
+                {
+                    "ja": "ねり粉が二塁に達する"
+                }
+            ]
+        },
+        {
+            "textId": "Home Run (HR)",
+            "languageTextList": [
+                {
+                    "fr": "Course à domicile (HR)"
+                },
+                {
+                    "ar": "Home Run (HR)"
+                },
+                {
+                    "ja": "ホームラン（HR）"
+                }
+            ]
+        },
+        {
+            "textId": "Batter hits it out of the park or reaches\nback to home base",
+            "languageTextList": [
+                {
+                    "fr": "Le frappeur le frappe hors du parc ou atteint \n retour à la base"
+                },
+                {
+                    "ar": "يضربها الضارب خارج المتنزه أو يصل \n إلى قاعدة المنزل"
+                },
+                {
+                    "ja": "打者が公園からそれを打つか、\nホームベースに戻る"
+                }
+            ]
+        },
+        {
+            "textId": "Runes Batted In (RBI)",
+            "languageTextList": [
+                {
+                    "fr": "Runes frappées dans (RBI)"
+                },
+                {
+                    "ar": "الطلاسم ضرب في (RBI)"
+                },
+                {
+                    "ja": "ルーンバッティングイン（RBI）"
+                }
+            ]
+        },
+        {
+            "textId": "Batter on strike caused one or more\nruns to be scored",
+            "languageTextList": [
+                {
+                    "fr": "Le frappeur en grève a fait marquer un ou plusieurs \nruns"
+                },
+                {
+                    "ar": "تسبب الضارب في الضربة في تسجيل واحد أو أكثر من \n جولة"
+                },
+                {
+                    "ja": "ストライキの打者が1つ以上の\nランを記録した"
+                }
+            ]
+        },
+        {
+            "textId": "Run Scored(R)",
+            "languageTextList": [
+                {
+                    "fr": "Courir marqué (R)"
+                },
+                {
+                    "ar": "تشغيل وسجل (R)"
+                },
+                {
+                    "ja": "スコアリング（R）を実行"
+                }
+            ]
+        },
+        {
+            "textId": "Player crosses home base to score a\nrun.",
+            "languageTextList": [
+                {
+                    "fr": "Le joueur traverse la base pour marquer une \ncourse."
+                },
+                {
+                    "ar": "يتجاوز اللاعب القاعدة الرئيسية ليسجل \n جولة."
+                },
+                {
+                    "ja": "プレーヤーはホームベースを越えて\nランを獲得します。"
+                }
+            ]
+        },
+        {
+            "textId": "Base on Balls (BBH) or Walk",
+            "languageTextList": [
+                {
+                    "fr": "Base sur balles (BBH) ou marche"
+                },
+                {
+                    "ar": "قاعدة على الكرات (BBH) أو المشي"
+                },
+                {
+                    "ja": "四球（BBH）またはウォーキング"
+                }
+            ]
+        },
+        {
+            "textId": "Deliver to the same better",
+            "languageTextList": [
+                {
+                    "fr": "Livrer le même mieux"
+                },
+                {
+                    "ar": "تسليم لنفس أفضل"
+                },
+                {
+                    "ja": "同じより良いに届ける"
+                }
+            ]
+        },
+        {
+            "textId": "Stolen Base (SB)",
+            "languageTextList": [
+                {
+                    "fr": "Base volée (SB)"
+                },
+                {
+                    "ar": "القاعدة المسروقة (SB)"
+                },
+                {
+                    "ja": "盗塁（SB）"
+                }
+            ]
+        },
+        {
+            "textId": "Runner advances to next base while\npitcher is pitching",
+            "languageTextList": [
+                {
+                    "fr": "Le coureur avance vers la base suivante pendant que \npitcher lance"
+                },
+                {
+                    "ar": "يتقدم العداء إلى القاعدة التالية أثناء \n إبريق اللعب"
+                },
+                {
+                    "ja": "ピッチャーがピッチングしている間、ランナーは次のベースに進みます\n"
+                }
+            ]
+        },
+        {
+            "textId": "Pitching",
+            "languageTextList": [
+                {
+                    "fr": "Pitching"
+                },
+                {
+                    "ar": "نصب"
+                },
+                {
+                    "ja": "ピッチング"
+                }
+            ]
+        },
+        {
+            "textId": "Inning Pitched(IP)",
+            "languageTextList": [
+                {
+                    "fr": "Inning Pitched (IP)"
+                },
+                {
+                    "ar": "شوط شوط (IP)"
+                },
+                {
+                    "ja": "投球回（IP）"
+                }
+            ]
+        },
+        {
+            "textId": "The pitcher gets 3 batters outs.The\npitcher gets 1 point per out.",
+            "languageTextList": [
+                {
+                    "fr": "Le lanceur obtient 3 retraits au batteur. Le \npitcher obtient 1 point par retrait."
+                },
+                {
+                    "ar": "يحصل الرامي على 3 رصاصات \n ويحصل الرامي على نقطة واحدة لكل مخرج."
+                },
+                {
+                    "ja": "ピッチャーは3打者を獲得します。\nピッチャーは1アウトにつき1ポイントを獲得します。"
+                }
+            ]
+        },
+        {
+            "textId": "Strikeout(SO)",
+            "languageTextList": [
+                {
+                    "fr": "Grève (SO)"
+                },
+                {
+                    "ar": "شطب (SO)"
+                },
+                {
+                    "ja": "三振（SO）"
+                }
+            ]
+        },
+        {
+            "textId": "The pitcher throws three strikes to get\na batter out",
+            "languageTextList": [
+                {
+                    "fr": "Le lanceur lance trois grèves pour faire sortir le frappeur \na"
+                },
+                {
+                    "ar": "رمى الرامي ثلاث ضربات لإخراج الضرب"
+                },
+                {
+                    "ja": "投手は打者を追い出すために\naストライキを投げます"
+                }
+            ]
+        },
+        {
+            "textId": "Earned Run(ER)",
+            "languageTextList": [
+                {
+                    "fr": "Course gagnée (ER)"
+                },
+                {
+                    "ar": "التشغيل المكتسب (ER)"
+                },
+                {
+                    "ja": "自責点（ER）"
+                }
+            ]
+        },
+        {
+            "textId": "Run conceded by the pitcher",
+            "languageTextList": [
+                {
+                    "fr": "Course concédée par le lanceur"
+                },
+                {
+                    "ar": "ركض المرمى من قبل الرامي"
+                },
+                {
+                    "ja": "投手に譲られて走る"
+                }
+            ]
+        },
+        {
+            "textId": "Hit Allowed(H)",
+            "languageTextList": [
+                {
+                    "fr": "Frappe autorisée (H)"
+                },
+                {
+                    "ar": "ضرب مسموح (H)"
+                },
+                {
+                    "ja": "ヒット許可（H）"
+                }
+            ]
+        },
+        {
+            "textId": "When a batter reaches 1st ,2nd or 3rd\nbase",
+            "languageTextList": [
+                {
+                    "fr": "Lorsqu'un frappeur atteint la 1ère, 2ème ou 3ème base \n"
+                },
+                {
+                    "ar": "عندما يصل الخليط إلى القاعدة الأولى أو الثانية أو الثالثة \n"
+                },
+                {
+                    "ja": "打者が1、2、または3番目のベースに達したとき\n"
+                }
+            ]
+        },
+        {
+            "textId": "Base on Balls(BBP) or Walk",
+            "languageTextList": [
+                {
+                    "fr": "Base sur balles (BBP) ou marche"
+                },
+                {
+                    "ar": "قاعدة على الكرات (BBP) أو المشي"
+                },
+                {
+                    "ja": "四球（BBP）またはウォーキング"
+                }
+            ]
+        },
+        {
+            "textId": "A walk occurs when a pitcher throws 4\n'balls' or illegal deliveries to the same\nbatter",
+            "languageTextList": [
+                {
+                    "fr": "Une marche se produit lorsqu'un lanceur lance 4 \n'balls 'ou des livraisons illégales au même \nbatter"
+                },
+                {
+                    "ar": "تحدث المسيرة عندما يقوم الرامي برمي 4 \n  أو عمليات تسليم غير قانونية لنفس \n الضربة"
+                },
+                {
+                    "ja": "ピッチャーが同じバッターに\n「ボール」または違法な配達を4回投げると、歩行が発生します\n"
+                }
+            ]
+        },
+        {
+            "textId": "Other Important Points",
+            "languageTextList": [
+                {
+                    "fr": "Autres points importants"
+                },
+                {
+                    "ar": "نقاط مهمة أخرى"
+                },
+                {
+                    "ja": "その他の重要なポイント"
+                }
+            ]
+        },
+        {
+            "textId": "Action",
+            "languageTextList": [
+                {
+                    "fr": "action"
+                },
+                {
+                    "ar": "عمل"
+                },
+                {
+                    "ja": "アクション"
+                }
+            ]
+        },
+        {
+            "textId": "Points Scored",
+            "languageTextList": [
+                {
+                    "fr": "Points marqués"
+                },
+                {
+                    "ar": "النقاط المسجلة"
+                },
+                {
+                    "ja": "得点"
+                }
+            ]
+        },
+        {
+            "textId": "Rebounds",
+            "languageTextList": [
+                {
+                    "fr": "Rebonds"
+                },
+                {
+                    "ar": "متابعات"
+                },
+                {
+                    "ja": "リバウンド"
+                }
+            ]
+        },
+        {
+            "textId": "Assist",
+            "languageTextList": [
+                {
+                    "fr": "Aider"
+                },
+                {
+                    "ar": "مساعدة"
+                },
+                {
+                    "ja": "支援する"
+                }
+            ]
+        },
+        {
+            "textId": "Steals",
+            "languageTextList": [
+                {
+                    "fr": "Vole"
+                },
+                {
+                    "ar": "يسرق"
+                },
+                {
+                    "ja": "盗む"
+                }
+            ]
+        },
+        {
+            "textId": "Blocks",
+            "languageTextList": [
+                {
+                    "fr": "Blocs"
+                },
+                {
+                    "ar": "كتل"
+                },
+                {
+                    "ja": "ブロック"
+                }
+            ]
+        },
+        {
+            "textId": "Turn Overs",
+            "languageTextList": [
+                {
+                    "fr": "Renverser"
+                },
+                {
+                    "ar": "تحويل المبالغ"
+                },
+                {
+                    "ja": "裏返し"
+                }
+            ]
+        },
+        {
+            "textId": "Batting Points",
+            "languageTextList": [
+                {
+                    "fr": "Points de frappeur"
+                },
+                {
+                    "ar": "نقاط الضرب"
+                },
+                {
+                    "ja": "バッティングポイント"
+                }
+            ]
+        },
+        {
+            "textId": "Run",
+            "languageTextList": [
+                {
+                    "fr": "Courir"
+                },
+                {
+                    "ar": "يركض"
+                },
+                {
+                    "ja": "実行"
+                }
+            ]
+        },
+        {
+            "textId": "Boundary Bonus",
+            "languageTextList": [
+                {
+                    "fr": "Bonus de limite"
+                },
+                {
+                    "ar": "مكافأة الحدود"
+                },
+                {
+                    "ja": "境界ボーナス"
+                }
+            ]
+        },
+        {
+            "textId": "Six Bonus",
+            "languageTextList": [
+                {
+                    "fr": "Six Bonus"
+                },
+                {
+                    "ar": "ستة مكافآت"
+                },
+                {
+                    "ja": "6つのボーナス"
+                }
+            ]
+        },
+        {
+            "textId": "Half-century Bonus",
+            "languageTextList": [
+                {
+                    "fr": "Bonus d'un demi-siècle"
+                },
+                {
+                    "ar": "مكافأة نصف قرن"
+                },
+                {
+                    "ja": "半世紀のボーナス"
+                }
+            ]
+        },
+        {
+            "textId": "Century Bomus",
+            "languageTextList": [
+                {
+                    "fr": "Bonus du siècle"
+                },
+                {
+                    "ar": "مكافأة القرن"
+                },
+                {
+                    "ja": "センチュリーボーナス"
+                }
+            ]
+        },
+        {
+            "textId": "Dismissal for a duck",
+            "languageTextList": [
+                {
+                    "fr": "Licenciement pour un canard"
+                },
+                {
+                    "ar": "الفصل من أجل بطة"
+                },
+                {
+                    "ja": "アヒルの解雇"
+                }
+            ]
+        },
+        {
+            "textId": "Bowling Points",
+            "languageTextList": [
+                {
+                    "fr": "Points de bowling"
+                },
+                {
+                    "ar": "نقاط البولينج"
+                },
+                {
+                    "ja": "ボウリングポイント"
+                }
+            ]
+        },
+        {
+            "textId": "Wicket (Excluding Run Out)",
+            "languageTextList": [
+                {
+                    "fr": "Wicket (hors épuisement)"
+                },
+                {
+                    "ar": "الويكيت (باستثناء نفاد)"
+                },
+                {
+                    "ja": "ウィケット（ランアウトを除く）"
+                }
+            ]
+        },
+        {
+            "textId": "4 wicket haul Bonus",
+            "languageTextList": [
+                {
+                    "fr": "Bonus de transport de 4 guichets"
+                },
+                {
+                    "ar": "4 مكافأة مسافات الويكيت"
+                },
+                {
+                    "ja": "4改札運搬ボーナス"
+                }
+            ]
+        },
+        {
+            "textId": "5 wicket haul  Bonus",
+            "languageTextList": [
+                {
+                    "fr": "Bonus de transport de 5 guichets"
+                },
+                {
+                    "ar": "5 مكافأة مسافات صغيرة"
+                },
+                {
+                    "ja": "5改札運搬ボーナス"
+                }
+            ]
+        },
+        {
+            "textId": "Maiden over",
+            "languageTextList": [
+                {
+                    "fr": "Maiden sur"
+                },
+                {
+                    "ar": "انتهى البكر"
+                },
+                {
+                    "ja": "乙女オーバー"
+                }
+            ]
+        },
+        {
+            "textId": "Fielding Points",
+            "languageTextList": [
+                {
+                    "fr": "Points de champ"
+                },
+                {
+                    "ar": "نقاط فيلدينغ"
+                },
+                {
+                    "ja": "フィールディングポイント"
+                }
+            ]
+        },
+        {
+            "textId": "Catch",
+            "languageTextList": [
+                {
+                    "fr": "Capture"
+                },
+                {
+                    "ar": "قبض على"
+                },
+                {
+                    "ja": "キャッチ"
+                }
+            ]
+        },
+        {
+            "textId": "Stumping/Run-out",
+            "languageTextList": [
+                {
+                    "fr": "Stumping / run-out"
+                },
+                {
+                    "ar": "Stumping / نفاد"
+                },
+                {
+                    "ja": "スタンピング/ランアウト"
+                }
+            ]
+        },
+        {
+            "textId": "Run Out (Thrower)",
+            "languageTextList": [
+                {
+                    "fr": "Run Out (lanceur)"
+                },
+                {
+                    "ar": "نفد (قاذف)"
+                },
+                {
+                    "ja": "ランアウト（スローワー）"
+                }
+            ]
+        },
+        {
+            "textId": "Run Out (Catcher)",
+            "languageTextList": [
+                {
+                    "fr": "Run Out (receveur)"
+                },
+                {
+                    "ar": "نفد (الماسك)"
+                },
+                {
+                    "ja": "ランアウト（キャッチャー）"
+                }
+            ]
+        },
+        {
+            "textId": "Other Points",
+            "languageTextList": [
+                {
+                    "fr": "Autres points"
+                },
+                {
+                    "ar": "نقاط أخرى"
+                },
+                {
+                    "ja": "その他のポイント"
+                }
+            ]
+        },
+        {
+            "textId": "Captain",
+            "languageTextList": [
+                {
+                    "fr": "Capitaine"
+                },
+                {
+                    "ar": "قائد المنتخب"
+                },
+                {
+                    "ja": "キャプテン"
+                }
+            ]
+        },
+        {
+            "textId": "Vice-Captain",
+            "languageTextList": [
+                {
+                    "fr": "Vice capitaine"
+                },
+                {
+                    "ar": "نائب القبطان"
+                },
+                {
+                    "ja": "副隊長"
+                }
+            ]
+        },
+        {
+            "textId": "In Starting",
+            "languageTextList": [
+                {
+                    "fr": "Au démarrage"
+                },
+                {
+                    "ar": "في البداية"
+                },
+                {
+                    "ja": "開始時"
+                }
+            ]
+        },
+        {
+            "textId": "Economy Rate Points",
+            "languageTextList": [
+                {
+                    "fr": "Points de tarif économique"
+                },
+                {
+                    "ar": "نقاط معدل الاقتصاد"
+                },
+                {
+                    "ja": "エコノミーレートポイント"
+                }
+            ]
+        },
+        {
+            "textId": "Min 2 Overs To Be Bowled",
+            "languageTextList": [
+                {
+                    "fr": "Min 2 Overs à jouer"
+                },
+                {
+                    "ar": "2 الحد الأدنى للرمي"
+                },
+                {
+                    "ja": "ボウリングされる最小2オーバー"
+                }
+            ]
+        },
+        {
+            "textId": "Below 4 runs per over",
+            "languageTextList": [
+                {
+                    "fr": "Moins de 4 courses par plus"
+                },
+                {
+                    "ar": "أقل من 4 أشواط لكل أكثر"
+                },
+                {
+                    "ja": "1オーバーあたり4ラン未満"
+                }
+            ]
+        },
+        {
+            "textId": "Between 4-4.99 runs per over",
+            "languageTextList": [
+                {
+                    "fr": "Entre 4-4,99 courses par over"
+                },
+                {
+                    "ar": "بين 4-4.99 دورة لكل أكثر"
+                },
+                {
+                    "ja": "1オーバーあたり4〜4.99ラン"
+                }
+            ]
+        },
+        {
+            "textId": "Between 5-6 runs per over",
+            "languageTextList": [
+                {
+                    "fr": "Entre 5 et 6 courses par over"
+                },
+                {
+                    "ar": "بين 5-6 أشواط لكل أكثر"
+                },
+                {
+                    "ja": "オーバーあたり5〜6回の実行"
+                }
+            ]
+        },
+        {
+            "textId": "Between 9-10 runs per over",
+            "languageTextList": [
+                {
+                    "fr": "Entre 9 et 10 courses par over"
+                },
+                {
+                    "ar": "بين 9-10 أشواط لكل أكثر"
+                },
+                {
+                    "ja": "1オーバーあたり9〜10回の実行"
+                }
+            ]
+        },
+        {
+            "textId": "Between 10.01-11 runs per over",
+            "languageTextList": [
+                {
+                    "fr": "Entre 10.01-11 courses par over"
+                },
+                {
+                    "ar": "بين 10.01-11 دورة لكل أكثر"
+                },
+                {
+                    "ja": "1オーバーあたり10.01〜11ラン"
+                }
+            ]
+        },
+        {
+            "textId": "Above 11 runs per over",
+            "languageTextList": [
+                {
+                    "fr": "Au dessus de 11 courses par over"
+                },
+                {
+                    "ar": "فوق 11 مرة في كل أكثر"
+                },
+                {
+                    "ja": "1オーバーあたり11ラン以上"
+                }
+            ]
+        },
+        {
+            "textId": "Strike Rate (Except Bowler) Points",
+            "languageTextList": [
+                {
+                    "fr": "Points de grève"
+                },
+                {
+                    "ar": "معدل الضربات (باستثناء الرامي) نقاط"
+                },
+                {
+                    "ja": "ストライクレート（ボウラーを除く）ポイント"
+                }
+            ]
+        },
+        {
+            "textId": "Min 10 Balls To Be Played",
+            "languageTextList": [
+                {
+                    "fr": "Min 10 balles à jouer"
+                },
+                {
+                    "ar": "يجب لعب 10 كرات على الأقل"
+                },
+                {
+                    "ja": "プレーする最小10個のボール"
+                }
+            ]
+        },
+        {
+            "textId": "Between 60-70 runs per 100 balls",
+            "languageTextList": [
+                {
+                    "fr": "Entre 60 et 70 pistes pour 100 balles"
+                },
+                {
+                    "ar": "بين 60-70 تمريرة لكل 100 كرة"
+                },
+                {
+                    "ja": "100ボールあたり60〜70ラン"
+                }
+            ]
+        },
+        {
+            "textId": "Between 50-59.99 runs per 100 balls",
+            "languageTextList": [
+                {
+                    "fr": "Entre 50-59,99 courses pour 100 balles"
+                },
+                {
+                    "ar": "بين 50-59.99 مرة لكل 100 كرة"
+                },
+                {
+                    "ja": "100ボールあたり50-59.99ラン"
+                }
+            ]
+        },
+        {
+            "textId": "Below 50 runs per 100 balls",
+            "languageTextList": [
+                {
+                    "fr": "Moins de 50 pistes pour 100 balles"
+                },
+                {
+                    "ar": "أقل من 50 شوطًا لكل 100 كرة"
+                },
+                {
+                    "ja": "100ボールあたり50ラン未満"
+                }
+            ]
+        },
+        {
+            "textId": "Attack",
+            "languageTextList": [
+                {
+                    "fr": "Attaque"
+                },
+                {
+                    "ar": "هجوم"
+                },
+                {
+                    "ja": "攻撃"
+                }
+            ]
+        },
+        {
+            "textId": "Goal",
+            "languageTextList": [
+                {
+                    "fr": "Objectif"
+                },
+                {
+                    "ar": "هدف"
+                },
+                {
+                    "ja": "ゴール"
+                }
+            ]
+        },
+        {
+            "textId": "Shot on target (Includes Goals)",
+            "languageTextList": [
+                {
+                    "fr": "Tir sur cible (comprend les buts)"
+                },
+                {
+                    "ar": "تسديدة على المرمى (تشمل الأهداف)"
+                },
+                {
+                    "ja": "ターゲットを狙う（ゴールを含む）"
+                }
+            ]
+        },
+        {
+            "textId": "Chance Created",
+            "languageTextList": [
+                {
+                    "fr": "Chance créée"
+                },
+                {
+                    "ar": "خلق فرصة"
+                },
+                {
+                    "ja": "チャンスが生まれました"
+                }
+            ]
+        },
+        {
+            "textId": "5 Passes Completed",
+            "languageTextList": [
+                {
+                    "fr": "5 passes réussies"
+                },
+                {
+                    "ar": "5 تمريرات جيدة"
+                },
+                {
+                    "ja": "5パス完了"
+                }
+            ]
+        },
+        {
+            "textId": "Defense",
+            "languageTextList": [
+                {
+                    "fr": "La défense"
+                },
+                {
+                    "ar": "دفاع"
+                },
+                {
+                    "ja": "防衛"
+                }
+            ]
+        },
+        {
+            "textId": "Tackle Won",
+            "languageTextList": [
+                {
+                    "fr": "Tacle gagné"
+                },
+                {
+                    "ar": "تدخل وون"
+                },
+                {
+                    "ja": "タックルウォン"
+                }
+            ]
+        },
+        {
+            "textId": "Interception Won",
+            "languageTextList": [
+                {
+                    "fr": "Interception gagnée"
+                },
+                {
+                    "ar": "فاز الاعتراض"
+                },
+                {
+                    "ja": "インターセプトが勝ちました"
+                }
+            ]
+        },
+        {
+            "textId": "Blocked Shot",
+            "languageTextList": [
+                {
+                    "fr": "Tir bloqué"
+                },
+                {
+                    "ar": "تسديدة محظورة"
+                },
+                {
+                    "ja": "ブロックショット"
+                }
+            ]
+        },
+        {
+            "textId": "Clearance",
+            "languageTextList": [
+                {
+                    "fr": "Dégagement"
+                },
+                {
+                    "ar": "تخليص"
+                },
+                {
+                    "ja": "クリアランス"
+                }
+            ]
+        },
+        {
+            "textId": "Saves",
+            "languageTextList": [
+                {
+                    "fr": "Enregistre"
+                },
+                {
+                    "ar": "يحفظ"
+                },
+                {
+                    "ja": "セーブ"
+                }
+            ]
+        },
+        {
+            "textId": "Penalty Saved",
+            "languageTextList": [
+                {
+                    "fr": "Pénalité enregistrée"
+                },
+                {
+                    "ar": "ركلة جزاء محفوظة"
+                },
+                {
+                    "ja": "ペナルティが節約されました"
+                }
+            ]
+        },
+        {
+            "textId": "Clean Sheet",
+            "languageTextList": [
+                {
+                    "fr": "Feuille propre"
+                },
+                {
+                    "ar": "صفحة نظيفة"
+                },
+                {
+                    "ja": "白紙の状態"
+                }
+            ]
+        },
+        {
+            "textId": "Coming on as a Substitute",
+            "languageTextList": [
+                {
+                    "fr": "Venir en tant que suppléant"
+                },
+                {
+                    "ar": "يأتي كبديل"
+                },
+                {
+                    "ja": "代用としてやってくる"
+                }
+            ]
+        },
+        {
+            "textId": "Cards And Other Penalties",
+            "languageTextList": [
+                {
+                    "fr": "Cartes et autres pénalités"
+                },
+                {
+                    "ar": "البطاقات والعقوبات الأخرى"
+                },
+                {
+                    "ja": "カードおよびその他のペナルティ"
+                }
+            ]
+        },
+        {
+            "textId": "Yellow card",
+            "languageTextList": [
+                {
+                    "fr": "Carte jaune"
+                },
+                {
+                    "ar": "بطاقة صفراء"
+                },
+                {
+                    "ja": "イエローカード"
+                }
+            ]
+        },
+        {
+            "textId": "Red card",
+            "languageTextList": [
+                {
+                    "fr": "carte rouge"
+                },
+                {
+                    "ar": "بطاقة حمراء"
+                },
+                {
+                    "ja": "レッドカード"
+                }
+            ]
+        },
+        {
+            "textId": "Own goal",
+            "languageTextList": [
+                {
+                    "fr": "But contre son camp"
+                },
+                {
+                    "ar": "هدف في مرماه"
+                },
+                {
+                    "ja": "オウンゴール"
+                }
+            ]
+        },
+        {
+            "textId": "Goals conceded",
+            "languageTextList": [
+                {
+                    "fr": "Buts encaissés"
+                },
+                {
+                    "ar": "الأهداف قبلت"
+                },
+                {
+                    "ja": "ゴールは認められた"
+                }
+            ]
+        },
+        {
+            "textId": "Penalty missed",
+            "languageTextList": [
+                {
+                    "fr": "Penalty manqué"
+                },
+                {
+                    "ar": "ضياع ركلة جزاء"
+                },
+                {
+                    "ja": "ペナルティを逃した"
+                }
+            ]
+        },
+        {
+            "textId": "Save (GK only)",
+            "languageTextList": [
+                {
+                    "fr": "Enregistrer (GK uniquement)"
+                },
+                {
+                    "ar": "حفظ (GK فقط)"
+                },
+                {
+                    "ja": "保存（GKのみ）"
+                }
+            ]
+        },
+        {
+            "textId": "Penalty Saved (GK only)",
+            "languageTextList": [
+                {
+                    "fr": "Pénalité enregistrée (GK uniquement)"
+                },
+                {
+                    "ar": "تم الحفظ من ركلة جزاء (حارس مرمى فقط)"
+                },
+                {
+                    "ja": "ペナルティの節約（GKのみ）"
+                }
+            ]
+        },
+        {
+            "textId": "Ejections",
+            "languageTextList": [
+                {
+                    "fr": "Éjections"
+                },
+                {
+                    "ar": "طرد"
+                },
+                {
+                    "ja": "退場"
+                }
+            ]
+        },
+        {
+            "textId": "Penalty Miss",
+            "languageTextList": [
+                {
+                    "fr": "Pénalité Miss"
+                },
+                {
+                    "ar": "ركلة جزاء تخطئ"
+                },
+                {
+                    "ja": "ペナルティミス"
+                }
+            ]
+        },
+        {
+            "textId": "Offense",
+            "languageTextList": [
+                {
+                    "fr": "Infraction"
+                },
+                {
+                    "ar": "جريمة"
+                },
+                {
+                    "ja": "オフェンス"
+                }
+            ]
+        },
+        {
+            "textId": "Rushing TD",
+            "languageTextList": [
+                {
+                    "fr": "Rushing TD"
+                },
+                {
+                    "ar": "التسرع TD"
+                },
+                {
+                    "ja": "急いでTD"
+                }
+            ]
+        },
+        {
+            "textId": "Receiving TD",
+            "languageTextList": [
+                {
+                    "fr": "Recevoir TD"
+                },
+                {
+                    "ar": "تلقي TD"
+                },
+                {
+                    "ja": "TDの受信"
+                }
+            ]
+        },
+        {
+            "textId": "Passing TD",
+            "languageTextList": [
+                {
+                    "fr": "Passer TD"
+                },
+                {
+                    "ar": "تمرير TD"
+                },
+                {
+                    "ja": "TDを渡す"
+                }
+            ]
+        },
+        {
+            "textId": "10 Rushing Yards",
+            "languageTextList": [
+                {
+                    "fr": "10 verges précipitées"
+                },
+                {
+                    "ar": "10 ساحات للاندفاع"
+                },
+                {
+                    "ja": "10ラッシングヤード"
+                }
+            ]
+        },
+        {
+            "textId": "10 Receiving Yards",
+            "languageTextList": [
+                {
+                    "fr": "10 verges de réception"
+                },
+                {
+                    "ar": "10 ساحات استلام"
+                },
+                {
+                    "ja": "10ヤードの受け取り"
+                }
+            ]
+        },
+        {
+            "textId": "25 Passing Yards",
+            "languageTextList": [
+                {
+                    "fr": "25 verges qui passent"
+                },
+                {
+                    "ar": "25 ياردة"
+                },
+                {
+                    "ja": "25通過ヤード"
+                }
+            ]
+        },
+        {
+            "textId": "100+ Rushing Yards Bonus",
+            "languageTextList": [
+                {
+                    "fr": "Bonus de plus de 100 verges précipitées"
+                },
+                {
+                    "ar": "100+ مكافأة الاندفاع"
+                },
+                {
+                    "ja": "100以上のラッシングヤードボーナス"
+                }
+            ]
+        },
+        {
+            "textId": "100+ Receiving Yards Bonus",
+            "languageTextList": [
+                {
+                    "fr": "Bonus de plus de 100 verges"
+                },
+                {
+                    "ar": "100+ ياردة مكافأة"
+                },
+                {
+                    "ja": "100以上の受け取りヤードボーナス"
+                }
+            ]
+        },
+        {
+            "textId": "300+ Passing Yards Bonus",
+            "languageTextList": [
+                {
+                    "fr": "Bonus de plus de 300 verges"
+                },
+                {
+                    "ar": "300+ ياردة مكافأة"
+                },
+                {
+                    "ja": "300以上の通過ヤードボーナス"
+                }
+            ]
+        },
+        {
+            "textId": "Reception",
+            "languageTextList": [
+                {
+                    "fr": "accueil"
+                },
+                {
+                    "ar": "استقبال"
+                },
+                {
+                    "ja": "受信"
+                }
+            ]
+        },
+        {
+            "textId": "Fumble Lost",
+            "languageTextList": [
+                {
+                    "fr": "Fumble Lost"
+                },
+                {
+                    "ar": "فقدت الشعور"
+                },
+                {
+                    "ja": "ファンブルロスト"
+                }
+            ]
+        },
+        {
+            "textId": "Interception",
+            "languageTextList": [
+                {
+                    "fr": "Interception"
+                },
+                {
+                    "ar": "اعتراض"
+                },
+                {
+                    "ja": "傍受"
+                }
+            ]
+        },
+        {
+            "textId": "2 Pt Conversion",
+            "languageTextList": [
+                {
+                    "fr": "Interception"
+                },
+                {
+                    "ar": "اعتراض"
+                },
+                {
+                    "ja": "傍受"
+                }
+            ]
+        },
+        {
+            "textId": "Assisted Tackle",
+            "languageTextList": [
+                {
+                    "fr": "Tacle assisté"
+                },
+                {
+                    "ar": "التدخل المساعد"
+                },
+                {
+                    "ja": "アシストタックル"
+                }
+            ]
+        },
+        {
+            "textId": "5+ Tackle Bonus",
+            "languageTextList": [
+                {
+                    "fr": "5+ bonus de tacle"
+                },
+                {
+                    "ar": "5+ مكافأة تدخل"
+                },
+                {
+                    "ja": "5+タックルボーナス"
+                }
+            ]
+        },
+        {
+            "textId": "Pass Defended",
+            "languageTextList": [
+                {
+                    "fr": "Passe défendue"
+                },
+                {
+                    "ar": "تمرير الدفاع"
+                },
+                {
+                    "ja": "パスディフェンス"
+                }
+            ]
+        },
+        {
+            "textId": "Sack",
+            "languageTextList": [
+                {
+                    "fr": "Sac"
+                },
+                {
+                    "ar": "كيس"
+                },
+                {
+                    "ja": "袋"
+                }
+            ]
+        },
+        {
+            "textId": "Forced Fumble",
+            "languageTextList": [
+                {
+                    "fr": "Fumble forcé"
+                },
+                {
+                    "ar": "تلمس إجباري"
+                },
+                {
+                    "ja": "強制ファンブル"
+                }
+            ]
+        },
+        {
+            "textId": "Forced Recovery",
+            "languageTextList": [
+                {
+                    "fr": "Récupération forcée"
+                },
+                {
+                    "ar": "الانتعاش القسري"
+                },
+                {
+                    "ja": "強制回復"
+                }
+            ]
+        },
+        {
+            "textId": "Safety",
+            "languageTextList": [
+                {
+                    "fr": "sécurité"
+                },
+                {
+                    "ar": "سلامة"
+                },
+                {
+                    "ja": "安全性"
+                }
+            ]
+        },
+        {
+            "textId": "Return TD",
+            "languageTextList": [
+                {
+                    "fr": "Retour TD"
+                },
+                {
+                    "ar": "عودة TD"
+                },
+                {
+                    "ja": "TDを返す"
+                }
+            ]
+        },
+        {
+            "textId": "Point System",
+            "languageTextList": [
+                {
+                    "fr": "Système de points"
+                },
+                {
+                    "ar": "نظام النقاط"
+                },
+                {
+                    "ja": "ポイント制"
+                }
+            ]
+        },
+        {
+            "textId": "Notifications",
+            "languageTextList": [
+                {
+                    "fr": "Notifications"
+                },
+                {
+                    "ar": "إشعارات"
+                },
+                {
+                    "ja": "通知"
+                }
+            ]
+        },
+        {
+            "textId": "You have no any notification yet!",
+            "languageTextList": [
+                {
+                    "fr": "Vous n'avez encore aucune notification!"
+                },
+                {
+                    "ar": "ليس لديك أي إشعار حتى الآن!"
+                },
+                {
+                    "ja": "まだ通知はありません！"
+                }
+            ]
+        },
+        {
+            "textId": "Level",
+            "languageTextList": [
+                {
+                    "fr": "Niveau"
+                },
+                {
+                    "ar": "مستوى"
+                },
+                {
+                    "ja": "レベル"
+                }
+            ]
+        },
+        {
+            "textId": "To progress to alevel 13 Champion",
+            "languageTextList": [
+                {
+                    "fr": "Pour progresser au niveau 13 Champion"
+                },
+                {
+                    "ar": "للتقدم إلى المستوى 13 بطل"
+                },
+                {
+                    "ja": "レベル13のチャンピオンに進むには"
+                }
+            ]
+        },
+        {
+            "textId": "Play for",
+            "languageTextList": [
+                {
+                    "fr": "Jouer pour"
+                },
+                {
+                    "ar": "اللعب لصالح"
+                },
+                {
+                    "ja": "のために遊ぶ"
+                }
+            ]
+        },
+        {
+            "textId": "more",
+            "languageTextList": [
+                {
+                    "fr": "plus"
+                },
+                {
+                    "ar": "أكثر"
+                },
+                {
+                    "ja": "もっと"
+                }
+            ]
+        },
+        {
+            "textId": "OR",
+            "languageTextList": [
+                {
+                    "fr": "OU"
+                },
+                {
+                    "ar": "أو"
+                },
+                {
+                    "ja": "または"
+                }
+            ]
+        },
+        {
+            "textId": "Play for",
+            "languageTextList": [
+                {
+                    "fr": "Jouer pour"
+                },
+                {
+                    "ar": "اللعب لصالح"
+                },
+                {
+                    "ja": "のために遊ぶ"
+                }
+            ]
+        },
+        {
+            "textId": "Cash Bonus",
+            "languageTextList": [
+                {
+                    "fr": "Bonus en espèces"
+                },
+                {
+                    "ar": "مكافأة نقدية"
+                },
+                {
+                    "ja": "現金ボーナス"
+                }
+            ]
+        },
+        {
+            "textId": "Use this cash bonus to join paid contests\nand win.",
+            "languageTextList": [
+                {
+                    "fr": "Utilisez ce bonus en espèces pour participer à des concours payants \net gagner."
+                },
+                {
+                    "ar": "استخدم هذه المكافأة النقدية للانضمام إلى المسابقات المدفوعة \n والفوز."
+                },
+                {
+                    "ja": "この現金ボーナスを使用して、有料コンテストに参加し、\n勝ちます。"
+                }
+            ]
+        },
+        {
+            "textId": "Offer Details",
+            "languageTextList": [
+                {
+                    "fr": "Détails de l'offre"
+                },
+                {
+                    "ar": "تفاصيل العرض"
+                },
+                {
+                    "ja": "オファーの詳細"
+                }
+            ]
+        },
+        {
+            "textId": "Unlocks at level 20",
+            "languageTextList": [
+                {
+                    "fr": "Déverrouille au niveau 20"
+                },
+                {
+                    "ar": "يفتح في المستوى 20"
+                },
+                {
+                    "ja": "レベル20でロックを解除します"
+                }
+            ]
+        },
+        {
+            "textId": "Followers",
+            "languageTextList": [
+                {
+                    "fr": "Suiveurs"
+                },
+                {
+                    "ar": "متابعون"
+                },
+                {
+                    "ja": "フォロワー"
+                }
+            ]
+        },
+        {
+            "textId": "Following",
+            "languageTextList": [
+                {
+                    "fr": "Suivant"
+                },
+                {
+                    "ar": "التالية"
+                },
+                {
+                    "ja": "以下"
+                }
+            ]
+        },
+        {
+            "textId": "Posts",
+            "languageTextList": [
+                {
+                    "fr": "Des postes"
+                },
+                {
+                    "ar": "المشاركات"
+                },
+                {
+                    "ja": "投稿"
+                }
+            ]
+        },
+        {
+            "textId": "Playing History",
+            "languageTextList": [
+                {
+                    "fr": "Histoire de jeu"
+                },
+                {
+                    "ar": "لعب التاريخ"
+                },
+                {
+                    "ja": "لعب التاريخ"
+                }
+            ]
+        },
+        {
+            "textId": "Contests",
+            "languageTextList": [
+                {
+                    "fr": "Concours"
+                },
+                {
+                    "ar": "مسابقات"
+                },
+                {
+                    "ja": "コンテスト"
+                }
+            ]
+        },
+        {
+            "textId": "Matches",
+            "languageTextList": [
+                {
+                    "fr": "Allumettes"
+                },
+                {
+                    "ar": "اعواد الكبريت"
+                },
+                {
+                    "ja": "マッチス"
+                }
+            ]
+        },
+        {
+            "textId": "Series",
+            "languageTextList": [
+                {
+                    "fr": "Séries"
+                },
+                {
+                    "ar": "سلسلة"
+                },
+                {
+                    "ja": "シリーズ"
+                }
+            ]
+        },
+        {
+            "textId": "Wins",
+            "languageTextList": [
+                {
+                    "fr": "Victoires"
+                },
+                {
+                    "ar": "يفوز"
+                },
+                {
+                    "ja": "勝ちます"
+                }
+            ]
+        },
+        {
+            "textId": "Tournament Leaderboard",
+            "languageTextList": [
+                {
+                    "fr": "Classement du tournoi"
+                },
+                {
+                    "ar": "لوحة صدارة البطولة"
+                },
+                {
+                    "ja": "トーナメントリーダーボード"
+                }
+            ]
+        },
+        {
+            "textId": "Select Toue",
+            "languageTextList": [
+                {
+                    "fr": "Sélectionnez Toue"
+                },
+                {
+                    "ar": "حدد Toue"
+                },
+                {
+                    "ja": "Toueを選択"
+                }
+            ]
+        },
+        {
+            "textId": "German Mens Handball",
+            "languageTextList": [
+                {
+                    "fr": "Handball masculin allemand"
+                },
+                {
+                    "ar": "كرة اليد الرجالية الألمانية"
+                },
+                {
+                    "ja": "ドイツのメンズハンドボール"
+                }
+            ]
+        },
+        {
+            "textId": "TEAM",
+            "languageTextList": [
+                {
+                    "fr": "ÉQUIPE"
+                },
+                {
+                    "ar": "الفريق"
+                },
+                {
+                    "ja": "チーム"
+                }
+            ]
+        },
+        {
+            "textId": "A.Jaiswal",
+            "languageTextList": [
+                {
+                    "fr": "A.Jaiswal"
+                },
+                {
+                    "ar": "أ.جيسوال"
+                },
+                {
+                    "ja": "A.ジェイスワル"
+                }
+            ]
+        },
+        {
+            "textId": "S.Joshi",
+            "languageTextList": [
+                {
+                    "fr": "S. Josho"
+                },
+                {
+                    "ar": "س. جوشو"
+                },
+                {
+                    "ja": "S.ジョシ"
+                }
+            ]
+        },
+        {
+            "textId": "V.Villiers",
+            "languageTextList": [
+                {
+                    "fr": "V.Villiers"
+                },
+                {
+                    "ar": "فيليرز"
+                },
+                {
+                    "ja": "V.ヴィリヤーズ"
+                }
+            ]
+        },
+        {
+            "textId": "M.Morris",
+            "languageTextList": [
+                {
+                    "fr": "M. Morris"
+                },
+                {
+                    "ar": "إم موريس"
+                },
+                {
+                    "ja": "M.モリス"
+                }
+            ]
+        },
+        {
+            "textId": "A. Archer",
+            "languageTextList": [
+                {
+                    "fr": "A. Archer"
+                },
+                {
+                    "ar": "أ. آرتشر"
+                },
+                {
+                    "ja": "A.アーチャー"
+                }
+            ]
+        },
+        {
+            "textId": "V.Kohali",
+            "languageTextList": [
+                {
+                    "fr": "Kohli"
+                },
+                {
+                    "ar": "كوهلي"
+                },
+                {
+                    "ja": "コーリ"
+                }
+            ]
+        },
+        {
+            "textId": "R.Steyn",
+            "languageTextList": [
+                {
+                    "fr": "R.Steyn"
+                },
+                {
+                    "ar": "آر ستاين"
+                },
+                {
+                    "ja": "R.Steyn"
+                }
+            ]
+        },
+        {
+            "textId": "Level 12",
+            "languageTextList": [
+                {
+                    "fr": "Niveau 12"
+                },
+                {
+                    "ar": "المستوى 12"
+                },
+                {
+                    "ja": "レベル12"
+                }
+            ]
+        },
+        {
+            "textId": "Find People",
+            "languageTextList": [
+                {
+                    "fr": "Trouver des gens"
+                },
+                {
+                    "ar": "ايجاد الناس"
+                },
+                {
+                    "ja": "人を見つけます"
+                }
+            ]
+        },
+        {
+            "textId": "My Coupons",
+            "languageTextList": [
+                {
+                    "fr": "Mes coupons"
+                },
+                {
+                    "ar": "القسائم الخاصة بي"
+                },
+                {
+                    "ja": "私のクーポン"
+                }
+            ]
+        },
+        {
+            "textId": "Fantancy Points System",
+            "languageTextList": [
+                {
+                    "fr": "Système de points fantaisie"
+                },
+                {
+                    "ar": "نظام النقاط الخيالية"
+                },
+                {
+                    "ja": "ファンタンシーポイントシステム"
+                }
+            ]
+        },
+        {
+            "textId": "Weekly Leaderboard",
+            "languageTextList": [
+                {
+                    "fr": "Classement hebdomadaire"
+                },
+                {
+                    "ar": "لوحة الصدارة الأسبوعية"
+                },
+                {
+                    "ja": "ウィークリーリーダーボード"
+                }
+            ]
+        },
+        {
+            "textId": "My Info & Settings",
+            "languageTextList": [
+                {
+                    "fr": "Mes informations et paramètres"
+                },
+                {
+                    "ar": "معلوماتي وإعداداتي"
+                },
+                {
+                    "ja": "私の情報と設定"
+                }
+            ]
+        },
+        {
+            "textId": "Theme",
+            "languageTextList": [
+                {
+                    "fr": "Thème"
+                },
+                {
+                    "ar": "موضوع"
+                },
+                {
+                    "ja": "テーマ"
+                }
+            ]
+        },
+        {
+            "textId": "Language",
+            "languageTextList": [
+                {
+                    "fr": "Langue"
+                },
+                {
+                    "ar": "لغة"
+                },
+                {
+                    "ja": "言語"
+                }
+            ]
+        },
+        {
+            "textId": "Helpdesk",
+            "languageTextList": [
+                {
+                    "fr": "Bureau d'aide"
+                },
+                {
+                    "ar": "مكتب المساعدة"
+                },
+                {
+                    "ja": "ヘルプデスク"
+                }
+            ]
+        },
+        {
+            "textId": "Chat With us",
+            "languageTextList": [
+                {
+                    "fr": "Discute avec nous"
+                },
+                {
+                    "ar": "دردش معنا"
+                },
+                {
+                    "ja": "私たちとしゃべる"
+                }
+            ]
+        },
+        {
+            "textId": "Select  your Language",
+            "languageTextList": [
+                {
+                    "fr": "Choisissez votre langue"
+                },
+                {
+                    "ar": "اختر لغتك"
+                },
+                {
+                    "ja": "あなたが使う言語を選んでください"
+                }
+            ]
+        },
+        {
+            "textId": "English",
+            "languageTextList": [
+                {
+                    "fr": "Anglais"
+                },
+                {
+                    "ar": "الإنجليزية"
+                },
+                {
+                    "ja": "英語"
+                }
+            ]
+        },
+        {
+            "textId": "French",
+            "languageTextList": [
+                {
+                    "fr": "Français"
+                },
+                {
+                    "ar": "فرنسي"
+                },
+                {
+                    "ja": "フランス語"
+                }
+            ]
+        },
+        {
+            "textId": "Arabic",
+            "languageTextList": [
+                {
+                    "fr": "arabe"
+                },
+                {
+                    "ar": "عربى"
+                },
+                {
+                    "ja": "アラビア語"
+                }
+            ]
+        },
+        {
+            "textId": "Japanese",
+            "languageTextList": [
+                {
+                    "fr": "Japonais"
+                },
+                {
+                    "ar": "اليابانية"
+                },
+                {
+                    "ja": "日本語"
+                }
+            ]
+        },
+        {
+            "textId": "Select theme mode",
+            "languageTextList": [
+                {
+                    "fr": "Sélectionnez le mode de thème"
+                },
+                {
+                    "ar": "حدد وضع السمة"
+                },
+                {
+                    "ja": "テーマモードを選択"
+                }
+            ]
+        },
+        {
+            "textId": "Light",
+            "languageTextList": [
+                {
+                    "fr": "Lumière"
+                },
+                {
+                    "ar": "ضوء"
+                },
+                {
+                    "ja": "光"
+                }
+            ]
+        },
+        {
+            "textId": "Dark",
+            "languageTextList": [
+                {
+                    "fr": "Sombre"
+                },
+                {
+                    "ar": "داكن"
+                },
+                {
+                    "ja": "闇"
+                }
+            ]
+        },
+        {
+            "textId": "Offers & Coupons",
+            "languageTextList": [
+                {
+                    "fr": "Offres et coupons"
+                },
+                {
+                    "ar": "العروض والقسائم"
+                },
+                {
+                    "ja": "オファーとクーポン"
+                }
+            ]
+        },
+        {
+            "textId": "You have no offers or coupons at the moment",
+            "languageTextList": [
+                {
+                    "fr": "Vous n'avez pas d'offres ou de coupons pour le moment"
+                },
+                {
+                    "ar": "ليس لديك عروض أو قسائم في الوقت الحالي"
+                },
+                {
+                    "ja": "現在、オファーやクーポンはありません"
+                }
+            ]
+        },
+        {
+            "textId": "Keep an eye out for promotions and offers\nfor exciting rewards!",
+            "languageTextList": [
+                {
+                    "fr": "Gardez un œil sur les promotions et offres \npour des récompenses intéressantes!"
+                },
+                {
+                    "ar": "ترقب العروض الترويجية والعروض \n للحصول على مكافآت مثيرة!"
+                },
+                {
+                    "ja": "プロモーションやオファーに注目してください\nエキサイティングな報酬を！"
+                }
+            ]
+        },
+        {
+            "textId": "Name",
+            "languageTextList": [
+                {
+                    "fr": "Nom"
+                },
+                {
+                    "ar": "اسم"
+                },
+                {
+                    "ja": "名前"
+                }
+            ]
+        },
+        {
+            "textId": "Enter Name",
+            "languageTextList": [
+                {
+                    "fr": "Entrez le nom"
+                },
+                {
+                    "ar": "أدخل الاسم"
+                },
+                {
+                    "ja": "名前を入力"
+                }
+            ]
+        },
+        {
+            "textId": "Email",
+            "languageTextList": [
+                {
+                    "fr": "Email"
+                },
+                {
+                    "ar": "البريد الإلكتروني"
+                },
+                {
+                    "ja": "Eメール"
+                }
+            ]
+        },
+        {
+            "textId": "Enter Email",
+            "languageTextList": [
+                {
+                    "fr": "Entrez votre e-mail"
+                },
+                {
+                    "ar": "أدخل البريد الإلكتروني"
+                },
+                {
+                    "ja": "メールアドレスを入力して"
+                }
+            ]
+        },
+        {
+            "textId": "Password",
+            "languageTextList": [
+                {
+                    "fr": "Mot de passe"
+                },
+                {
+                    "ar": "كلمه السر"
+                },
+                {
+                    "ja": "パスワード"
+                }
+            ]
+        },
+        {
+            "textId": "Enter password",
+            "languageTextList": [
+                {
+                    "fr": "Entrer le mot de passe"
+                },
+                {
+                    "ar": "أدخل كلمة المرور"
+                },
+                {
+                    "ja": "パスワードを入力する"
+                }
+            ]
+        },
+        {
+            "textId": "Date of Birth",
+            "languageTextList": [
+                {
+                    "fr": "Date de naissance"
+                },
+                {
+                    "ar": "تاريخ الولادة"
+                },
+                {
+                    "ja": "生年月日"
+                }
+            ]
+        },
+        {
+            "textId": "Enter date of birth",
+            "languageTextList": [
+                {
+                    "fr": "Entrer date de naissance"
+                },
+                {
+                    "ar": "أدخل تاريخ الميلاد"
+                },
+                {
+                    "ja": "生年月日を入力してください"
+                }
+            ]
+        },
+        {
+            "textId": "Gender",
+            "languageTextList": [
+                {
+                    "fr": "Le genre"
+                },
+                {
+                    "ar": "جنس"
+                },
+                {
+                    "ja": "性別"
+                }
+            ]
+        },
+        {
+            "textId": "Male",
+            "languageTextList": [
+                {
+                    "fr": "Mâle"
+                },
+                {
+                    "ar": "الذكر"
+                },
+                {
+                    "ja": "男性"
+                }
+            ]
+        },
+        {
+            "textId": "Female",
+            "languageTextList": [
+                {
+                    "fr": "Femme"
+                },
+                {
+                    "ar": "أنثى"
+                },
+                {
+                    "ja": "女性"
+                }
+            ]
+        },
+        {
+            "textId": "Mobile Number",
+            "languageTextList": [
+                {
+                    "fr": "Numéro de portable"
+                },
+                {
+                    "ar": "رقم الهاتف المحمول"
+                },
+                {
+                    "ja": "携帯電話番号"
+                }
+            ]
+        },
+        {
+            "textId": "Enter mobile number",
+            "languageTextList": [
+                {
+                    "fr": "Entrez le numéro de mobile"
+                },
+                {
+                    "ar": "أدخل رقم الهاتف المحمول"
+                },
+                {
+                    "ja": "携帯電話番号を入力してください"
+                }
+            ]
+        },
+        {
+            "textId": "Privacy Settings",
+            "languageTextList": [
+                {
+                    "fr": "Paramètres de confidentialité"
+                },
+                {
+                    "ar": "إعدادات الخصوصية"
+                },
+                {
+                    "ja": "プライバシー設定"
+                }
+            ]
+        },
+        {
+            "textId": "Allow SMS notifications",
+            "languageTextList": [
+                {
+                    "fr": "Autoriser les notifications par SMS"
+                },
+                {
+                    "ar": "السماح بإشعارات الرسائل القصيرة"
+                },
+                {
+                    "ja": "SMS通知を許可する"
+                }
+            ]
+        },
+        {
+            "textId": "Make Me Discoverable",
+            "languageTextList": [
+                {
+                    "fr": "Rends-moi découvrable"
+                },
+                {
+                    "ar": "اجعلني قابلاً للاكتشاف"
+                },
+                {
+                    "ja": "私を発見可能にする"
+                }
+            ]
+        },
+        {
+            "textId": "Friends can find and follow you when they sync their\nphone contacts",
+            "languageTextList": [
+                {
+                    "fr": "Les amis peuvent vous trouver et vous suivre lorsqu'ils synchronisent leurs \n contacts téléphoniques"
+                },
+                {
+                    "ar": "يستطيع الأصدقاء العثور عليك ومتابعتك عند مزامنة \n جهات اتصال الهاتف"
+                },
+                {
+                    "ja": "友だちは、電話の連絡先を同期するときに\nあなたを見つけてフォローできます"
+                }
+            ]
+        },
+        {
+            "textId": "Address",
+            "languageTextList": [
+                {
+                    "fr": "Adresse"
+                },
+                {
+                    "ar": "عنوان"
+                },
+                {
+                    "ja": "住所"
+                }
+            ]
+        },
+        {
+            "textId": "Enter Address",
+            "languageTextList": [
+                {
+                    "fr": "Entrer l'adresse"
+                },
+                {
+                    "ar": "أدخل العنوان"
+                },
+                {
+                    "ja": "住所を入力してください"
+                }
+            ]
+        },
+        {
+            "textId": "City",
+            "languageTextList": [
+                {
+                    "fr": "Ville"
+                },
+                {
+                    "ar": "مدينة"
+                },
+                {
+                    "ja": "市"
+                }
+            ]
+        },
+        {
+            "textId": "Enter City",
+            "languageTextList": [
+                {
+                    "fr": "Entrez la ville"
+                },
+                {
+                    "ar": "أدخل المدينة"
+                },
+                {
+                    "ja": "市に入る"
+                }
+            ]
+        },
+        {
+            "textId": "Pin code",
+            "languageTextList": [
+                {
+                    "fr": "Code PIN"
+                },
+                {
+                    "ar": "الرقم السري"
+                },
+                {
+                    "ja": "ピンコード"
+                }
+            ]
+        },
+        {
+            "textId": "Enter pin code",
+            "languageTextList": [
+                {
+                    "fr": "Entrez le code PIN"
+                },
+                {
+                    "ar": "أدخل الرقم السري"
+                },
+                {
+                    "ja": "PINコードを入力してください"
+                }
+            ]
+        },
+        {
+            "textId": "State",
+            "languageTextList": [
+                {
+                    "fr": "Etat"
+                },
+                {
+                    "ar": "حالة"
+                },
+                {
+                    "ja": "状態"
+                }
+            ]
+        },
+        {
+            "textId": "Enter state",
+            "languageTextList": [
+                {
+                    "fr": "Entrer l'état"
+                },
+                {
+                    "ar": "إدخال الدولة"
+                },
+                {
+                    "ja": "状態に入る"
+                }
+            ]
+        },
+        {
+            "textId": "Country",
+            "languageTextList": [
+                {
+                    "fr": "Pays"
+                },
+                {
+                    "ar": "بلد"
+                },
+                {
+                    "ja": "国"
+                }
+            ]
+        },
+        {
+            "textId": "Enter country",
+            "languageTextList": [
+                {
+                    "fr": "Entrez le pays"
+                },
+                {
+                    "ar": "أدخل الدولة"
+                },
+                {
+                    "ja": "国を入力してください"
+                }
+            ]
+        },
+        {
+            "textId": "Logout",
+            "languageTextList": [
+                {
+                    "fr": "Se déconnecter"
+                },
+                {
+                    "ar": "تسجيل خروج"
+                },
+                {
+                    "ja": "ログアウト"
+                }
+            ]
+        },
+        {
+            "textId": "Suspend Account",
+            "languageTextList": [
+                {
+                    "fr": "Suspendre le compte"
+                },
+                {
+                    "ar": "تعليق الحساب"
+                },
+                {
+                    "ja": "アカウントの一時停止"
+                }
+            ]
+        },
+        {
+            "textId": "Update Profile",
+            "languageTextList": [
+                {
+                    "fr": "Mettre à jour le profil"
+                },
+                {
+                    "ar": "تحديث الملف"
+                },
+                {
+                    "ja": "プロファイルの更新"
+                }
+            ]
+        },
+        {
+            "textId": "Home",
+            "languageTextList": [
+                {
+                    "fr": "Accueil"
+                },
+                {
+                    "ar": "الصفحة الرئيسية"
+                },
+                {
+                    "ja": "ホーム"
+                }
+            ]
+        },
+        {
+            "textId": "My Matches",
+            "languageTextList": [
+                {
+                    "fr": "Mes matchs"
+                },
+                {
+                    "ar": "مبارياتي"
+                },
+                {
+                    "ja": "私の試合"
+                }
+            ]
+        },
+        {
+            "textId": "Winners",
+            "languageTextList": [
+                {
+                    "fr": "Gagnants"
+                },
+                {
+                    "ar": "الفائزون"
+                },
+                {
+                    "ja": "勝者"
+                }
+            ]
+        },
+        {
+            "textId": "Groups",
+            "languageTextList": [
+                {
+                    "fr": "Groupes"
+                },
+                {
+                    "ar": "مجموعات"
+                },
+                {
+                    "ja": "グループ"
+                }
+            ]
+        },
+        {
+            "textId": "Feed",
+            "languageTextList": [
+                {
+                    "fr": "Alimentation"
+                },
+                {
+                    "ar": "تغذية"
+                },
+                {
+                    "ja": "フィード"
+                }
+            ]
+        },
+        {
+            "textId": "Mobile No/UserName/Email",
+            "languageTextList": [
+                {
+                    "fr": "Mobile No / UserName / Email"
+                },
+                {
+                    "ar": "رقم الجوال / اسم المستخدم / البريد الإلكتروني"
+                },
+                {
+                    "ja": "携帯番号/ユーザー名/メール"
+                }
+            ]
+        },
+        {
+            "textId": "Password",
+            "languageTextList": [
+                {
+                    "fr": "Mot de passe"
+                },
+                {
+                    "ar": "كلمه السر"
+                },
+                {
+                    "ja": "パスワード"
+                }
+            ]
+        },
+        {
+            "textId": "Login",
+            "languageTextList": [
+                {
+                    "fr": "S'identifier"
+                },
+                {
+                    "ar": "تسجيل الدخول"
+                },
+                {
+                    "ja": "ログインする"
+                }
+            ]
+        },
+        {
+            "textId": "Forgot Password?",
+            "languageTextList": [
+                {
+                    "fr": "Mot de passe oublié?"
+                },
+                {
+                    "ar": "هل نسيت كلمة المرور؟"
+                },
+                {
+                    "ja": "パスワードをお忘れですか？"
+                }
+            ]
+        },
+        {
+            "textId": "Facebook",
+            "languageTextList": [
+                {
+                    "fr": "Facebook"
+                },
+                {
+                    "ar": "موقع التواصل الاجتماعي الفيسبوك"
+                },
+                {
+                    "ja": "フェイスブック"
+                }
+            ]
+        },
+        {
+            "textId": "Google",
+            "languageTextList": [
+                {
+                    "fr": "Google"
+                },
+                {
+                    "ar": "جوجل"
+                },
+                {
+                    "ja": "グーグル"
+                }
+            ]
+        },
+        {
+            "textId": "OTP sent to 8763091937",
+            "languageTextList": [
+                {
+                    "fr": "OTP envoyé au 8763091937"
+                },
+                {
+                    "ar": "تم إرسال OTP إلى 8763091937"
+                },
+                {
+                    "ja": "OTPが8763091937に送信されました"
+                }
+            ]
+        },
+        {
+            "textId": "Enter the OTP you received",
+            "languageTextList": [
+                {
+                    "fr": "Entrez l'OTP que vous avez reçu"
+                },
+                {
+                    "ar": "أدخل OTP الذي تلقيته"
+                },
+                {
+                    "ja": "受け取ったOTPを入力してください"
+                }
+            ]
+        },
+        {
+            "textId": "You should  receive the OTP in",
+            "languageTextList": [
+                {
+                    "fr": "Vous devriez recevoir l'OTP en"
+                },
+                {
+                    "ar": "يجب أن تتلقى OTP بصيغة"
+                },
+                {
+                    "ja": "でOTPを受け取る必要があります"
+                }
+            ]
+        },
+        {
+            "textId": "28 Second..",
+            "languageTextList": [
+                {
+                    "fr": "28 secondes."
+                },
+                {
+                    "ar": "28 ثانية .."
+                },
+                {
+                    "ja": "28秒.."
+                }
+            ]
+        },
+        {
+            "textId": "Next",
+            "languageTextList": [
+                {
+                    "fr": "Suivant"
+                },
+                {
+                    "ar": "التالى"
+                },
+                {
+                    "ja": "次"
+                }
+            ]
+        },
+        {
+            "textId": "Add Cash",
+            "languageTextList": [
+                {
+                    "fr": "Ajouter de l'argent"
+                },
+                {
+                    "ar": "أضف نقودا"
+                },
+                {
+                    "ja": "現金を追加する"
+                }
+            ]
+        },
+        {
+            "textId": "Current Balance",
+            "languageTextList": [
+                {
+                    "fr": "Solde actuel"
+                },
+                {
+                    "ar": "الرصيد الحالي"
+                },
+                {
+                    "ja": "経常収支"
+                }
+            ]
+        },
+        {
+            "textId": "Amount to add",
+            "languageTextList": [
+                {
+                    "fr": "Montant à ajouter"
+                },
+                {
+                    "ar": "المبلغ المراد إضافته"
+                },
+                {
+                    "ja": "追加する金額"
+                }
+            ]
+        },
+        {
+            "textId": "Add ₹100",
+            "languageTextList": [
+                {
+                    "fr": "Ajouter 100 ₹"
+                },
+                {
+                    "ar": "أضف 100 دولار"
+                },
+                {
+                    "ja": "£100を追加"
+                }
+            ]
+        },
+        {
+            "textId": "₹5 Lakhs",
+            "languageTextList": [
+                {
+                    "fr": "5 ₹ Lakhs"
+                },
+                {
+                    "ar": "روبية 5 كهس"
+                },
+                {
+                    "ja": "￡ 5ラク"
+                }
+            ]
+        },
+        {
+            "textId": "18,406 sports left",
+            "languageTextList": [
+                {
+                    "fr": "18406 sports restants"
+                },
+                {
+                    "ar": "بقي 18406 رياضة"
+                },
+                {
+                    "ja": "残り18,406スポーツ"
+                }
+            ]
+        },
+        {
+            "textId": "26,595 spots",
+            "languageTextList": [
+                {
+                    "fr": "26 595 places"
+                },
+                {
+                    "ar": "26595 مكان"
+                },
+                {
+                    "ja": "26,595スポット"
+                }
+            ]
+        },
+        {
+            "textId": "You have not created a group yet",
+            "languageTextList": [
+                {
+                    "fr": "Vous n'avez pas encore créé de groupe"
+                },
+                {
+                    "ar": "لم تقم بإنشاء مجموعة حتى الآن"
+                },
+                {
+                    "ja": "まだグループを作成していません"
+                }
+            ]
+        },
+        {
+            "textId": "Add friends and discuss everything sport.",
+            "languageTextList": [
+                {
+                    "fr": "Ajoutez des amis et discutez de tout le sport."
+                },
+                {
+                    "ar": "أضف أصدقاء وناقش كل شيء رياضي."
+                },
+                {
+                    "ja": "友達を追加して、すべてのスポーツについて話し合います。"
+                }
+            ]
+        },
+        {
+            "textId": "Create Group",
+            "languageTextList": [
+                {
+                    "fr": "Créer un groupe"
+                },
+                {
+                    "ar": "إنشاء مجموعة"
+                },
+                {
+                    "ja": "グループを作成します"
+                }
+            ]
+        },
+        {
+            "textId": "Cancel",
+            "languageTextList": [
+                {
+                    "fr": "Annuler"
+                },
+                {
+                    "ar": "إلغاء"
+                },
+                {
+                    "ja": "キャンセル"
+                }
+            ]
+        },
+        {
+            "textId": "Contents",
+            "languageTextList": [
+                {
+                    "fr": "Contenu"
+                },
+                {
+                    "ar": "محتويات"
+                },
+                {
+                    "ja": "内容"
+                }
+            ]
+        },
+        {
+            "textId": "My Contents (0)",
+            "languageTextList": [
+                {
+                    "fr": "Mon contenu (0)"
+                },
+                {
+                    "ar": "المحتويات الخاصة بي (0)"
+                },
+                {
+                    "ja": "マイコンテンツ（0）"
+                }
+            ]
+        },
+        {
+            "textId": "SSMG vs DAE",
+            "languageTextList": [
+                {
+                    "fr": "SSMG vs DAE"
+                },
+                {
+                    "ar": "SSMG مقابل DAE"
+                },
+                {
+                    "ja": "SSMG対DAE"
+                }
+            ]
+        },
+        {
+            "textId": "48m 39s left",
+            "languageTextList": [
+                {
+                    "fr": "48m 39s à gauche"
+                },
+                {
+                    "ar": "بقي 48 م و 39 ث"
+                },
+                {
+                    "ja": "残り48分39秒"
+                }
+            ]
+        },
+        {
+            "textId": "Be the first in  your network to join this contest.",
+            "languageTextList": [
+                {
+                    "fr": "Soyez le premier de votre réseau à participer à ce concours."
+                },
+                {
+                    "ar": "كن أول من ينضم إلى هذه المسابقة في شبكتك."
+                },
+                {
+                    "ja": "このコンテストに参加するネットワークの最初の人になりましょう。"
+                }
+            ]
+        },
+        {
+            "textId": "RANK",
+            "languageTextList": [
+                {
+                    "fr": "RANG"
+                },
+                {
+                    "ar": "مرتبة"
+                },
+                {
+                    "ja": "ランク"
+                }
+            ]
+        },
+        {
+            "textId": "PRIZE",
+            "languageTextList": [
+                {
+                    "fr": "PRIX"
+                },
+                {
+                    "ar": "جائزة"
+                },
+                {
+                    "ja": "賞"
+                }
+            ]
+        },
+        {
+            "textId": "₹1 Crore",
+            "languageTextList": [
+                {
+                    "fr": "1 crore ₹"
+                },
+                {
+                    "ar": "₹ 1 كرور روبية"
+                },
+                {
+                    "ja": "￡ 1クローレ"
+                }
+            ]
+        },
+        {
+            "textId": "₹10 Crore",
+            "languageTextList": [
+                {
+                    "fr": "10 Crore"
+                },
+                {
+                    "ar": "10 كرور روبية"
+                },
+                {
+                    "ja": "£10クローレ"
+                }
+            ]
+        },
+        {
+            "textId": "₹5 Crore",
+            "languageTextList": [
+                {
+                    "fr": "₹ 5 Crore"
+                },
+                {
+                    "ar": "₹ 5 كرور روبية"
+                },
+                {
+                    "ja": "￡ 5クローレ"
+                }
+            ]
+        },
+        {
+            "textId": "₹4 Crore",
+            "languageTextList": [
+                {
+                    "fr": "₹ 4 Crore"
+                },
+                {
+                    "ar": "₹ 4 كرور روبية"
+                },
+                {
+                    "ja": "￡ 4クローレ"
+                }
+            ]
+        },
+        {
+            "textId": "₹3 Crore",
+            "languageTextList": [
+                {
+                    "fr": "3 Crore ₹"
+                },
+                {
+                    "ar": "₹ 3 كرور روبية"
+                },
+                {
+                    "ja": "￡ 3クローレ"
+                }
+            ]
+        },
+        {
+            "textId": "₹2 Crore",
+            "languageTextList": [
+                {
+                    "fr": "2 Crore ₹"
+                },
+                {
+                    "ar": "₹ 2 كرور روبية"
+                },
+                {
+                    "ja": "￡ 2クローレ"
+                }
+            ]
+        },
+        {
+            "textId": "₹9 Crore",
+            "languageTextList": [
+                {
+                    "fr": "£ 9 Crore"
+                },
+                {
+                    "ar": "₹ 9 كرور روبية"
+                },
+                {
+                    "ja": "￡ 9クローレ"
+                }
+            ]
+        },
+        {
+            "textId": "Be the first in  your network to join this contest.",
+            "languageTextList": [
+                {
+                    "fr": "Soyez le premier de votre réseau à participer à ce concours."
+                },
+                {
+                    "ar": "كن أول من ينضم إلى هذه المسابقة في شبكتك."
+                },
+                {
+                    "ja": "このコンテストに参加するネットワークの最初の人になりましょう。"
+                }
+            ]
+        },
+        {
+            "textId": "All Teams (22,14,037)",
+            "languageTextList": [
+                {
+                    "fr": "Toutes les équipes (22,14,037)"
+                },
+                {
+                    "ar": "كل الفرق (22،14،037)"
+                },
+                {
+                    "ja": "すべてのチーム（22,14,037）"
+                }
+            ]
+        },
+        {
+            "textId": "Vansh098xy",
+            "languageTextList": [
+                {
+                    "fr": "Vansh098xy"
+                },
+                {
+                    "ar": "فانش 098xy"
+                },
+                {
+                    "ja": "Vansh098xy"
+                }
+            ]
+        },
+        {
+            "textId": "Hot Contest",
+            "languageTextList": [
+                {
+                    "fr": "Concours chaud"
+                },
+                {
+                    "ar": "مسابقة ساخنة"
+                },
+                {
+                    "ja": "激戦"
+                }
+            ]
+        },
+        {
+            "textId": "Filling Fast. Join Now!",
+            "languageTextList": [
+                {
+                    "fr": "Remplissage rapide. Adhérer maintenant!"
+                },
+                {
+                    "ar": "ملء سريع. نضم الان!"
+                },
+                {
+                    "ja": "速く満たす。今すぐ参加！"
+                }
+            ]
+        },
+        {
+            "textId": "₹1 Lakhs",
+            "languageTextList": [
+                {
+                    "fr": "1 Lakhs"
+                },
+                {
+                    "ar": "روبية 1 كهس"
+                },
+                {
+                    "ja": "1万ルピー"
+                }
+            ]
+        },
+        {
+            "textId": "3,199 sports left",
+            "languageTextList": [
+                {
+                    "fr": "3199 sports restants"
+                },
+                {
+                    "ar": "3199 رياضة متبقية"
+                },
+                {
+                    "ja": "残り3,199スポーツ"
+                }
+            ]
+        },
+        {
+            "textId": "4,029 spots",
+            "languageTextList": [
+                {
+                    "fr": "4029 spots"
+                },
+                {
+                    "ar": "4029 مكان"
+                },
+                {
+                    "ja": "4,029スポット"
+                }
+            ]
+        },
+        {
+            "textId": "Head-to-Head",
+            "languageTextList": [
+                {
+                    "fr": "Tête à tête"
+                },
+                {
+                    "ar": "وجها لوجه"
+                },
+                {
+                    "ja": "面と向かって"
+                }
+            ]
+        },
+        {
+            "textId": "The Ultimate Face Off!",
+            "languageTextList": [
+                {
+                    "fr": "La confrontation ultime!"
+                },
+                {
+                    "ar": "الوجه المطلق!"
+                },
+                {
+                    "ja": "究極の対決！"
+                }
+            ]
+        },
+        {
+            "textId": "View All",
+            "languageTextList": [
+                {
+                    "fr": "Voir tout"
+                },
+                {
+                    "ar": "مشاهدة الكل"
+                },
+                {
+                    "ja": "すべて表示"
+                }
+            ]
+        },
+        {
+            "textId": "Set Reminders",
+            "languageTextList": [
+                {
+                    "fr": "Définir des rappels"
+                },
+                {
+                    "ar": "ضبط التذكيرات"
+                },
+                {
+                    "ja": "リマインダーを設定する"
+                }
+            ]
+        },
+        {
+            "textId": "Lineup Announcement (if available)",
+            "languageTextList": [
+                {
+                    "fr": "Annonce de programmation (si disponible)"
+                },
+                {
+                    "ar": "إعلان تشكيلة الفريق (إن وجد)"
+                },
+                {
+                    "ja": "ラインナップ発表（利用可能な場合）"
+                }
+            ]
+        },
+        {
+            "textId": "Match - KXIP vs DC",
+            "languageTextList": [
+                {
+                    "fr": "Match - KXIP contre DC"
+                },
+                {
+                    "ar": "المباراة - KXIP vs DC"
+                },
+                {
+                    "ja": "一致-KXIP対DC"
+                }
+            ]
+        },
+        {
+            "textId": "Tour - Fantanccy IPL",
+            "languageTextList": [
+                {
+                    "fr": "Visite - Fantanccy IPL"
+                },
+                {
+                    "ar": "جولة - Fantanccy IPL"
+                },
+                {
+                    "ja": "ツアー-FantanccyIPL"
+                }
+            ]
+        },
+        {
+            "textId": "Done",
+            "languageTextList": [
+                {
+                    "fr": "Terminé"
+                },
+                {
+                    "ar": "منجز"
+                },
+                {
+                    "ja": "完了"
+                }
+            ]
+        },
+        {
+            "textId": "Create Team",
+            "languageTextList": [
+                {
+                    "fr": "Créer une équipe"
+                },
+                {
+                    "ar": "إنشاء فريق"
+                },
+                {
+                    "ja": "チームを作成する"
+                }
+            ]
+        },
+        {
+            "textId": "Sort by",
+            "languageTextList": [
+                {
+                    "fr": "Trier par"
+                },
+                {
+                    "ar": "صنف حسب"
+                },
+                {
+                    "ja": "並び替え"
+                }
+            ]
+        },
+        {
+            "textId": "Entry Fee",
+            "languageTextList": [
+                {
+                    "fr": "Frais d'entrée"
+                },
+                {
+                    "ar": "رسم الدخول"
+                },
+                {
+                    "ja": "入場料"
+                }
+            ]
+        },
+        {
+            "textId": "Content Size",
+            "languageTextList": [
+                {
+                    "fr": "Taille du contenu"
+                },
+                {
+                    "ar": "حجم المحتوى"
+                },
+                {
+                    "ja": "コンテンツサイズ"
+                }
+            ]
+        },
+        {
+            "textId": "All Filters",
+            "languageTextList": [
+                {
+                    "fr": "Tous les filtres"
+                },
+                {
+                    "ar": "كل المرشحات"
+                },
+                {
+                    "ja": "すべてのフィルター"
+                }
+            ]
+        },
+        {
+            "textId": "You haven't joined a contest yet!",
+            "languageTextList": [
+                {
+                    "fr": "Vous n'avez pas encore rejoint un concours!"
+                },
+                {
+                    "ar": "لم تنضم إلى أي مسابقة بعد!"
+                },
+                {
+                    "ja": "まだコンテストに参加していません！"
+                }
+            ]
+        },
+        {
+            "textId": "What are you waiting for?",
+            "languageTextList": [
+                {
+                    "fr": "Qu'est-ce que tu attends?"
+                },
+                {
+                    "ar": "ماذا تنتظر؟"
+                },
+                {
+                    "ja": "何を待っていますか？"
+                }
+            ]
+        },
+        {
+            "textId": "Join A Contest",
+            "languageTextList": [
+                {
+                    "fr": "Rejoignez un concours"
+                },
+                {
+                    "ar": "انضم إلى مسابقة"
+                },
+                {
+                    "ja": "コンテストに参加する"
+                }
+            ]
+        },
+        {
+            "textId": "Fantancy Sports",
+            "languageTextList": [
+                {
+                    "fr": "Sports fantastiques"
+                },
+                {
+                    "ar": "الرياضات الخيالية"
+                },
+                {
+                    "ja": "ファンタジースポーツ"
+                }
+            ]
+        },
+        {
+            "textId": "Rajsthan Royals",
+            "languageTextList": [
+                {
+                    "fr": "Royals du Rajasthan"
+                },
+                {
+                    "ar": "راجستان رويالز"
+                },
+                {
+                    "ja": "ラジャスタンロイヤルズ"
+                }
+            ]
+        },
+        {
+            "textId": "Bengaluru",
+            "languageTextList": [
+                {
+                    "fr": "Bengaluru"
+                },
+                {
+                    "ar": "بنغالورو"
+                },
+                {
+                    "ja": "バンガロール"
+                }
+            ]
+        },
+        {
+            "textId": "Completed",
+            "languageTextList": [
+                {
+                    "fr": "Terminé"
+                },
+                {
+                    "ar": "منجز"
+                },
+                {
+                    "ja": "完了"
+                }
+            ]
+        },
+        {
+            "textId": "1 Team",
+            "languageTextList": [
+                {
+                    "fr": "1 équipe"
+                },
+                {
+                    "ar": "1 فريق"
+                },
+                {
+                    "ja": "1チーム"
+                }
+            ]
+        },
+        {
+            "textId": "Mumbai Indians",
+            "languageTextList": [
+                {
+                    "fr": "Indiens de Mumbai"
+                },
+                {
+                    "ar": "هنود مومباي"
+                },
+                {
+                    "ja": "ムンバイインディアン"
+                }
+            ]
+        },
+        {
+            "textId": "Kolkata",
+            "languageTextList": [
+                {
+                    "fr": "Calcutta"
+                },
+                {
+                    "ar": "كولكاتا"
+                },
+                {
+                    "ja": "コルカタ"
+                }
+            ]
+        },
+        {
+            "textId": "Channai",
+            "languageTextList": [
+                {
+                    "fr": "Lait Chan"
+                },
+                {
+                    "ar": "حليب تشان"
+                },
+                {
+                    "ja": "チャンミルク"
+                }
+            ]
+        },
+        {
+            "textId": "Panjab",
+            "languageTextList": [
+                {
+                    "fr": "Punjab"
+                },
+                {
+                    "ar": "البنجاب"
+                },
+                {
+                    "ja": "パンジャーブ"
+                }
+            ]
+        },
+        {
+            "textId": "You haven't joined any contests that are live",
+            "languageTextList": [
+                {
+                    "fr": "Vous n'avez rejoint aucun concours en direct"
+                },
+                {
+                    "ar": "أنت لم تنضم إلى أي مسابقات مباشرة"
+                },
+                {
+                    "ja": "ライブのコンテストに参加していません"
+                }
+            ]
+        },
+        {
+            "textId": "Join contests for any of the upcoming matches",
+            "languageTextList": [
+                {
+                    "fr": "Participez à des concours pour l'un des matchs à venir"
+                },
+                {
+                    "ar": "انضم إلى المسابقات في أي من المباريات القادمة"
+                },
+                {
+                    "ja": "今後の試合のコンテストに参加する"
+                }
+            ]
+        },
+        {
+            "textId": "View Upcoming Matches",
+            "languageTextList": [
+                {
+                    "fr": "Voir les prochains matchs"
+                },
+                {
+                    "ar": "مشاهدة المباريات القادمة"
+                },
+                {
+                    "ja": "今後の試合を見る"
+                }
+            ]
+        },
+        {
+            "textId": "Upcoming",
+            "languageTextList": [
+                {
+                    "fr": "A venir"
+                },
+                {
+                    "ar": "القادمة"
+                },
+                {
+                    "ja": "今後の"
+                }
+            ]
+        },
+        {
+            "textId": "Live",
+            "languageTextList": [
+                {
+                    "fr": "Vivre"
+                },
+                {
+                    "ar": "حي"
+                },
+                {
+                    "ja": "住む"
+                }
+            ]
+        },
+        {
+            "textId": "You haven't joined any upcoming contests",
+            "languageTextList": [
+                {
+                    "fr": "Vous n'avez rejoint aucun concours à venir"
+                },
+                {
+                    "ar": "لم تنضم إلى أي مسابقات قادمة"
+                },
+                {
+                    "ja": "今後のコンテストに参加していません"
+                }
+            ]
+        },
+        {
+            "textId": "Join contests for any of the upcoming matches",
+            "languageTextList": [
+                {
+                    "fr": "Participez à des concours pour l'un des matchs à venir"
+                },
+                {
+                    "ar": "انضم إلى المسابقات في أي من المباريات القادمة"
+                },
+                {
+                    "ja": "今後の試合のコンテストに参加する"
+                }
+            ]
+        },
+        {
+            "textId": "Fantancy",
+            "languageTextList": [
+                {
+                    "fr": "détecteur de ventilateur"
+                },
+                {
+                    "ar": "كاشف المروحة"
+                },
+                {
+                    "ja": "ファン検出器"
+                }
+            ]
+        },
+        {
+            "textId": "34 min. ago",
+            "languageTextList": [
+                {
+                    "fr": "34 min. depuis"
+                },
+                {
+                    "ar": "34 دقيقة منذ"
+                },
+                {
+                    "ja": "34分前"
+                }
+            ]
+        },
+        {
+            "textId": "K.Rabada-Too good to not be in your Fantancy",
+            "languageTextList": [
+                {
+                    "fr": "K.Rabada-Trop beau pour ne pas être dans votre fantaisie"
+                },
+                {
+                    "ar": "K.Rabada- من الجيد جدًا ألا تكون في خيالك"
+                },
+                {
+                    "ja": "K.ラバダ-ファンタンシーに参加できないのは良すぎる"
+                }
+            ]
+        },
+        {
+            "textId": "#Fantancy #KxIpvDc",
+            "languageTextList": [
+                {
+                    "fr": "#fan 探 仪 #KX IP VD C"
+                },
+                {
+                    "ar": "#fan 探 仪 #KX IP VD C"
+                },
+                {
+                    "ja": "＃ファン探仪#KX IP VD C"
+                }
+            ]
+        },
+        {
+            "textId": "React",
+            "languageTextList": [
+                {
+                    "fr": "Réagir"
+                },
+                {
+                    "ar": "تتفاعل"
+                },
+                {
+                    "ja": "React"
+                }
+            ]
+        },
+        {
+            "textId": "Share",
+            "languageTextList": [
+                {
+                    "fr": "Partager"
+                },
+                {
+                    "ar": "شارك"
+                },
+                {
+                    "ja": "シェア"
+                }
+            ]
+        },
+        {
+            "textId": "Profiles To Follow",
+            "languageTextList": [
+                {
+                    "fr": "Profils à suivre"
+                },
+                {
+                    "ar": "الملامح لمتابعة"
+                },
+                {
+                    "ja": "フォローするプロファイル"
+                }
+            ]
+        },
+        {
+            "textId": "Official",
+            "languageTextList": [
+                {
+                    "fr": "Officiel"
+                },
+                {
+                    "ar": "الرسمية"
+                },
+                {
+                    "ja": "公式"
+                }
+            ]
+        },
+        {
+            "textId": "He has been a part of the Fantancy Team for the last 3\noccasions",
+            "languageTextList": [
+                {
+                    "fr": "Il fait partie de l'équipe Fantancy depuis les 3 dernières \noccasions"
+                },
+                {
+                    "ar": "لقد كان جزءًا من Fantancy Team في آخر 3 مناسبات"
+                },
+                {
+                    "ja": "彼は過去3回のファンタンシーチームの一員でした"
+                }
+            ]
+        },
+        {
+            "textId": "Will M. Shami feature in your Fantancy tonight?\n#FantacyIPL #FantacyPics #KXIPvDC",
+            "languageTextList": [
+                {
+                    "fr": "M. Shami figurera-t-il dans votre Fantancy ce soir? \n # FantacyIPL #FantacyPics #KXIPvDC"
+                },
+                {
+                    "ar": "هل سيظهر M. Shami في Fantancy الليلة؟ \n # FantacyIPL #FantacyPics #KXIPvDC"
+                },
+                {
+                    "ja": "M.シャミは今夜あなたのファンタンシーに登場しますか？\n＃FantacyIPL＃FantacyPics #KXIPvDC"
+                }
+            ]
+        },
+        {
+            "textId": "474 people",
+            "languageTextList": [
+                {
+                    "fr": "474 personnes"
+                },
+                {
+                    "ar": "474 شخصًا"
+                },
+                {
+                    "ja": "474人"
+                }
+            ]
+        },
+        {
+            "textId": "Q. Which is your favourite IPL team this season?",
+            "languageTextList": [
+                {
+                    "fr": "Q. Quelle est votre équipe IPL préférée cette saison?"
+                },
+                {
+                    "ar": "ما هو فريق IPL المفضل لديك هذا الموسم؟"
+                },
+                {
+                    "ja": "Q.今シーズンのお気に入りのIPLチームはどれですか？"
+                }
+            ]
+        },
+        {
+            "textId": "#FantancyIPL",
+            "languageTextList": [
+                {
+                    "fr": "#fan 测 仪 IP l"
+                },
+                {
+                    "ar": "# معجب 探 仪 IP l"
+                },
+                {
+                    "ja": "＃fanη仪IPl"
+                }
+            ]
+        },
+        {
+            "textId": "FOLLOW",
+            "languageTextList": [
+                {
+                    "fr": "SUIVRE"
+                },
+                {
+                    "ar": "إتبع"
+                },
+                {
+                    "ja": "フォローする"
+                }
+            ]
+        },
+        {
+            "textId": "Groups",
+            "languageTextList": [
+                {
+                    "fr": "Groupes"
+                },
+                {
+                    "ar": "مجموعات"
+                },
+                {
+                    "ja": "グループ"
+                }
+            ]
+        },
+        {
+            "textId": "Create Group",
+            "languageTextList": [
+                {
+                    "fr": "Créer un groupe"
+                },
+                {
+                    "ar": "إنشاء مجموعة"
+                },
+                {
+                    "ja": "グループを作成します"
+                }
+            ]
+        },
+        {
+            "textId": "Your friends are waiting.\nStart a conversation and kickoff the competition!",
+            "languageTextList": [
+                {
+                    "fr": "Vos amis attendent. \nLancez une conversation et lancez la compétition!"
+                },
+                {
+                    "ar": "أصدقاؤك في الانتظار. \n ابدأ محادثة وابدأ المنافسة!"
+                },
+                {
+                    "ja": "友達が待っています。\n会話を始めて、競争を始めましょう！"
+                }
+            ]
+        },
+        {
+            "textId": "Mega Contest Winners",
+            "languageTextList": [
+                {
+                    "fr": "Gagnants du Mega Contest"
+                },
+                {
+                    "ar": "الفائزون في المسابقة الكبرى"
+                },
+                {
+                    "ja": "メガコンテストの勝者"
+                }
+            ]
+        },
+        {
+            "textId": "Filter by Tour",
+            "languageTextList": [
+                {
+                    "fr": "Filtrer par tour"
+                },
+                {
+                    "ar": "تصفية حسب الجولة"
+                },
+                {
+                    "ja": "ツアーでフィルタリング"
+                }
+            ]
+        },
+        {
+            "textId": "ECST10-Barceiona",
+            "languageTextList": [
+                {
+                    "fr": "ECST10-Barceiona"
+                },
+                {
+                    "ar": "ECST10- بارسيونا"
+                },
+                {
+                    "ja": "ECST10-バルセイオナ"
+                }
+            ]
+        },
+        {
+            "textId": "₹50 Lakh Mega Contest",
+            "languageTextList": [
+                {
+                    "fr": "Concours Méga Lakh de 50 ₹"
+                },
+                {
+                    "ar": "₹ 50 Lakh Mega Contest"
+                },
+                {
+                    "ja": "£50ラクメガコンテスト"
+                }
+            ]
+        },
+        {
+            "textId": "Concours Méga Lakh de 50 ₹",
+            "languageTextList": [
+                {
+                    "fr": "Concours Méga Lakh de 50 ₹"
+                },
+                {
+                    "ar": "₹ 50 Mega Lakh مسابقة"
+                },
+                {
+                    "ja": "£50メガラクコンテスト"
+                }
+            ]
+        },
+        {
+            "textId": "Rank #1",
+            "languageTextList": [
+                {
+                    "fr": "Rang # 1"
+                },
+                {
+                    "ar": "المرتبة 1"
+                },
+                {
+                    "ja": "ランク1"
+                }
+            ]
+        },
+        {
+            "textId": "Riks kk patil",
+            "languageTextList": [
+                {
+                    "fr": "Riks kk patil"
+                },
+                {
+                    "ar": "ريكس كك باتيل"
+                },
+                {
+                    "ja": "リスクkkパチル"
+                }
+            ]
+        },
+        {
+            "textId": "Won ₹1 Lakh",
+            "languageTextList": [
+                {
+                    "fr": "Gagné 1 ₹ Lakh"
+                },
+                {
+                    "ar": "فاز ₹ 1 لكح"
+                },
+                {
+                    "ja": "1万ルピーを獲得"
+                }
+            ]
+        },
+        {
+            "textId": "Rank #2",
+            "languageTextList": [
+                {
+                    "fr": "Rang # 2"
+                },
+                {
+                    "ar": "التصنيف رقم 2"
+                },
+                {
+                    "ja": "ランク2"
+                }
+            ]
+        },
+        {
+            "textId": "Rank #3",
+            "languageTextList": [
+                {
+                    "fr": "Rang # 3"
+                },
+                {
+                    "ar": "التصنيف رقم 3"
+                },
+                {
+                    "ja": "ランク＃3"
+                }
+            ]
+        },
+        {
+            "textId": "Enter invite code",
+            "languageTextList": [
+                {
+                    "fr": "Entrez le code d'invitation"
+                },
+                {
+                    "ar": "أدخل رمز الدعوة"
+                },
+                {
+                    "ja": "招待コードを入力してください"
+                }
+            ]
+        },
+        {
+            "textId": "Mobile No.",
+            "languageTextList": [
+                {
+                    "fr": "Numéro de portable"
+                },
+                {
+                    "ar": "رقم الموبايل."
+                },
+                {
+                    "ja": "携帯番号"
+                }
+            ]
+        },
+        {
+            "textId": "Register",
+            "languageTextList": [
+                {
+                    "fr": "S'inscrire"
+                },
+                {
+                    "ar": "تسجيل"
+                },
+                {
+                    "ja": "登録"
+                }
+            ]
+        },
+        {
+            "textId": "Already a user?",
+            "languageTextList": [
+                {
+                    "fr": "Déjà utilisateur?"
+                },
+                {
+                    "ar": "بالفعل مستخدم؟"
+                },
+                {
+                    "ja": "すでにユーザーですか？"
+                }
+            ]
+        },
+        {
+            "textId": "Log in",
+            "languageTextList": [
+                {
+                    "fr": "s'identifier"
+                },
+                {
+                    "ar": "تسجيل الدخول"
+                },
+                {
+                    "ja": "ログインする"
+                }
+            ]
+        },
+        {
+            "textId": "Play Your Own Sport",
+            "languageTextList": [
+                {
+                    "fr": "Jouez votre propre sport"
+                },
+                {
+                    "ar": "العب الرياضة الخاصة بك"
+                },
+                {
+                    "ja": "あなた自身のスポーツをする"
+                }
+            ]
+        },
+        {
+            "textId": "Let's Play",
+            "languageTextList": [
+                {
+                    "fr": "Jouons"
+                },
+                {
+                    "ar": "هيا بنا لنلعب"
+                },
+                {
+                    "ja": "遊ぼう"
+                }
+            ]
+        },
+        {
+            "textId": "Invited by a friend",
+            "languageTextList": [
+                {
+                    "fr": "Invité par un ami"
+                },
+                {
+                    "ar": "بدعوة من صديق"
+                },
+                {
+                    "ja": "友達に誘われて"
+                }
+            ]
+        },
+        {
+            "textId": "Enter code",
+            "languageTextList": [
+                {
+                    "fr": "Entrez le code"
+                },
+                {
+                    "ar": "ادخل الرمز"
+                },
+                {
+                    "ja": "コードを入力する"
+                }
+            ]
+        },
+        {
+            "textId": "Upcoming Matches",
+            "languageTextList": [
+                {
+                    "fr": "Prochains matchs"
+                },
+                {
+                    "ar": "المباريات القادمة"
+                },
+                {
+                    "ja": "今後の試合"
+                }
+            ]
+        },
+        {
+            "textId": "Korean Baseball League",
+            "languageTextList": [
+                {
+                    "fr": "Ligue de baseball coréenne"
+                },
+                {
+                    "ar": "دوري البيسبول الكوري"
+                },
+                {
+                    "ja": "韓国野球リーグ"
+                }
+            ]
+        },
+        {
+            "textId": "Rakuten Monkeys",
+            "languageTextList": [
+                {
+                    "fr": "Singes Rakuten Rakuten"
+                },
+                {
+                    "ar": "Rakuten Rakuten Monkeys"
+                },
+                {
+                    "ja": "楽天楽天モンキーズ"
+                }
+            ]
+        },
+        {
+            "textId": "CTBC Brothers",
+            "languageTextList": [
+                {
+                    "fr": "Frères CTBC"
+                },
+                {
+                    "ar": "سي تي بي سي براذرز"
+                },
+                {
+                    "ja": "CTBC兄弟"
+                }
+            ]
+        },
+        {
+            "textId": "Samsung Lions",
+            "languageTextList": [
+                {
+                    "fr": "Samsung Lions"
+                },
+                {
+                    "ar": "سامسونج الليونز"
+                },
+                {
+                    "ja": "サムスンライオンズ"
+                }
+            ]
+        },
+        {
+            "textId": "Hanwha Eagles",
+            "languageTextList": [
+                {
+                    "fr": "Aigles de Hanwha"
+                },
+                {
+                    "ar": "هانوا إيجلز"
+                },
+                {
+                    "ja": "ハンファ・イーグルス"
+                }
+            ]
+        },
+        {
+            "textId": "CBA League 2020-21",
+            "languageTextList": [
+                {
+                    "fr": "Ligue CBA 2020-21"
+                },
+                {
+                    "ar": "دوري CBA 2020-21"
+                },
+                {
+                    "ja": "CBAリーグ2020-21"
+                }
+            ]
+        },
+        {
+            "textId": "Jiangsu Dragons",
+            "languageTextList": [
+                {
+                    "fr": "Dragons du Jiangsu"
+                },
+                {
+                    "ar": "التنين جيانغسو"
+                },
+                {
+                    "ja": "江蘇龍皇帝"
+                }
+            ]
+        },
+        {
+            "textId": "Zhejiang Golden Bulls",
+            "languageTextList": [
+                {
+                    "fr": "Taureaux d'or du Zhejiang"
+                },
+                {
+                    "ar": "تشجيانغ جولدن بولز"
+                },
+                {
+                    "ja": "浙江ゴールデンブルズ"
+                }
+            ]
+        },
+        {
+            "textId": "Qingdo Eagles",
+            "languageTextList": [
+                {
+                    "fr": "Aigles de Qingdao"
+                },
+                {
+                    "ar": "نسور تشينغداو"
+                },
+                {
+                    "ja": "青島双星籠"
+                }
+            ]
+        },
+        {
+            "textId": "Guangdong Southern Tigers",
+            "languageTextList": [
+                {
+                    "fr": "Tigres du sud du Guangdong"
+                },
+                {
+                    "ar": "قوانغدونغ النمور الجنوبية"
+                },
+                {
+                    "ja": "広東宏遠華南虎"
+                }
+            ]
+        },
+        {
+            "textId": "Andorra",
+            "languageTextList": [
+                {
+                    "fr": "Andorre"
+                },
+                {
+                    "ar": "أندورا"
+                },
+                {
+                    "ja": "アンドラ"
+                }
+            ]
+        },
+        {
+            "textId": "Burgos",
+            "languageTextList": [
+                {
+                    "fr": "Burgos"
+                },
+                {
+                    "ar": "بورغوس"
+                },
+                {
+                    "ja": "ブルゴス"
+                }
+            ]
+        },
+        {
+            "textId": "Spanish Liga ACB",
+            "languageTextList": [
+                {
+                    "fr": "Liga espagnole ACB"
+                },
+                {
+                    "ar": "الدوري الاسباني ACB"
+                },
+                {
+                    "ja": "スペインのリーガACB"
+                }
+            ]
+        },
+        {
+            "textId": "Cricket IPL",
+            "languageTextList": [
+                {
+                    "fr": "Cricket IPL"
+                },
+                {
+                    "ar": "الكريكيت IPL"
+                },
+                {
+                    "ja": "クリケットIPL"
+                }
+            ]
+        },
+        {
+            "textId": "Delhi Capital",
+            "languageTextList": [
+                {
+                    "fr": "Delhi Capital"
+                },
+                {
+                    "ar": "دلهي كابيتال"
+                },
+                {
+                    "ja": "デリーキャピタル"
+                }
+            ]
+        },
+        {
+            "textId": "Hyderabad",
+            "languageTextList": [
+                {
+                    "fr": "Hyderabad"
+                },
+                {
+                    "ar": "حيدر أباد"
+                },
+                {
+                    "ja": "ハイデラバード"
+                }
+            ]
+        },
+        {
+            "textId": "Korean League",
+            "languageTextList": [
+                {
+                    "fr": "Ligue coréenne"
+                },
+                {
+                    "ar": "الدوري الكوري"
+                },
+                {
+                    "ja": "韓国リーグ"
+                }
+            ]
+        },
+        {
+            "textId": "Sangju Sangmu",
+            "languageTextList": [
+                {
+                    "fr": "Sangju Sangmu"
+                },
+                {
+                    "ar": "Sangju Sangmu"
+                },
+                {
+                    "ja": "Sangju Sangmu"
+                }
+            ]
+        },
+        {
+            "textId": "Seongam FC",
+            "languageTextList": [
+                {
+                    "fr": "Seongam FC"
+                },
+                {
+                    "ar": "سيونغام إف سي"
+                },
+                {
+                    "ja": "ソンガムFC"
+                }
+            ]
+        },
+        {
+            "textId": "Everton",
+            "languageTextList": [
+                {
+                    "fr": "Everton"
+                },
+                {
+                    "ar": "إيفرتون"
+                },
+                {
+                    "ja": "エバートン"
+                }
+            ]
+        },
+        {
+            "textId": "Liverpool",
+            "languageTextList": [
+                {
+                    "fr": "Liverpool"
+                },
+                {
+                    "ar": "ليفربول"
+                },
+                {
+                    "ja": "Liverpool"
+                }
+            ]
+        },
+        {
+            "textId": "MT Melsungen",
+            "languageTextList": [
+                {
+                    "fr": "MT Melsungen"
+                },
+                {
+                    "ar": "MT ميلسونجن"
+                },
+                {
+                    "ja": "MTメルスンゲン"
+                }
+            ]
+        },
+        {
+            "textId": "TSV GWD Minden",
+            "languageTextList": [
+                {
+                    "fr": "TSV GWD Minden"
+                },
+                {
+                    "ar": "TSV GWD Minden"
+                },
+                {
+                    "ja": "TSVGWDミンデン"
+                }
+            ]
+        },
+        {
+            "textId": "SG Flensburg-Handewitt",
+            "languageTextList": [
+                {
+                    "fr": "SG Flensburg-Handewitt"
+                },
+                {
+                    "ar": "SG Flensburg-Handewitt"
+                },
+                {
+                    "ja": "SGフレンスブルク-ハンデヴィット"
+                }
+            ]
+        },
+        {
+            "textId": "Frisch Auf Goppingen",
+            "languageTextList": [
+                {
+                    "fr": "Frisch Auf Goppingen"
+                },
+                {
+                    "ar": "فريش عوف غوبينغن"
+                },
+                {
+                    "ja": "フリッシュアウフゲッピンゲン"
+                }
+            ]
+        },
+        {
+            "textId": "HC Eriangen",
+            "languageTextList": [
+                {
+                    "fr": "HC Eriangen"
+                },
+                {
+                    "ar": "HC إيرينجين"
+                },
+                {
+                    "ja": "HCエリアンゲン"
+                }
+            ]
+        },
+        {
+            "textId": "TSV GWD Minden",
+            "languageTextList": [
+                {
+                    "fr": "TSV GWD Minden"
+                },
+                {
+                    "ar": "TSV GWD Minden"
+                },
+                {
+                    "ja": "TSVGWDミンデン"
+                }
+            ]
+        },
+        {
+            "textId": "NFL 2020",
+            "languageTextList": [
+                {
+                    "fr": "NFL 2020"
+                },
+                {
+                    "ar": "دوري كرة القدم الأمريكية 2020"
+                },
+                {
+                    "ja": "NFL 2020"
+                }
+            ]
+        },
+        {
+            "textId": "Philadelphia Eagles",
+            "languageTextList": [
+                {
+                    "fr": "Eagles de Philadelphie"
+                },
+                {
+                    "ar": "فيلادلفيا ايجلز"
+                },
+                {
+                    "ja": "フィラデルフィアイーグルス"
+                }
+            ]
+        },
+        {
+            "textId": "Kansas City Chief's",
+            "languageTextList": [
+                {
+                    "fr": "Chef de Kansas City"
+                },
+                {
+                    "ar": "كانساس سيتي شيف"
+                },
+                {
+                    "ja": "カンザスシティチーフズ"
+                }
+            ]
+        },
+        {
+            "textId": "Baltimore Ravens",
+            "languageTextList": [
+                {
+                    "fr": "Ravens de Baltimore"
+                },
+                {
+                    "ar": "بالتيمور الغربان"
+                },
+                {
+                    "ja": "ボルチモア・レイヴンズ"
+                }
+            ]
+        },
+        {
+            "textId": "Buffalo Bills",
+            "languageTextList": [
+                {
+                    "fr": "Buffalo Bills"
+                },
+                {
+                    "ar": "فواتير الجاموس"
+                },
+                {
+                    "ja": "バッファロービルズ"
+                }
+            ]
+        },
+        {
+            "textId": "Dallas Cowboys",
+            "languageTextList": [
+                {
+                    "fr": "Cowboys de Dallas"
+                },
+                {
+                    "ar": "رعاة البقر في دالاس"
+                },
+                {
+                    "ja": "ダラスカウボーイズ"
+                }
+            ]
+        },
+        {
+            "textId": "Arizona Cardinals",
+            "languageTextList": [
+                {
+                    "fr": "Cardinaux de l'Arizona"
+                },
+                {
+                    "ar": "أريزونا كاردينالز"
+                },
+                {
+                    "ja": "アリゾナカージナルス"
+                }
+            ]
+        },
+        {
+            "textId": "Mega",
+            "languageTextList": [
+                {
+                    "fr": "Méga"
+                },
+                {
+                    "ar": "ميجا"
+                },
+                {
+                    "ja": "メガ"
+                }
+            ]
+        },
+        {
+            "textId": "Prize Pool",
+            "languageTextList": [
+                {
+                    "fr": "Récompense"
+                },
+                {
+                    "ar": "مجموع جوائز"
+                },
+                {
+                    "ja": "賞金プール"
+                }
+            ]
+        },
+        {
+            "textId": "Entry",
+            "languageTextList": [
+                {
+                    "fr": "Entrée"
+                },
+                {
+                    "ar": "دخول"
+                },
+                {
+                    "ja": "エントリ"
+                }
+            ]
+        },
+        {
+            "textId": "Upto 11 Entries",
+            "languageTextList": [
+                {
+                    "fr": "Jusqu'à 11 entrées"
+                },
+                {
+                    "ar": "حتى 11 إدخالات"
+                },
+                {
+                    "ja": "最大11エントリ"
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        },
+        {
+            "textId": "",
+            "languageTextList": [
+                {
+                    "fr": ""
+                },
+                {
+                    "ar": ""
+                },
+                {
+                    "ja": ""
+                }
+            ]
+        }
+    ]
+}
